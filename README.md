@@ -1,5 +1,3 @@
-# 
-
 <h1 align="center">🌟 Career_planning_path </h1>
 
 <p align="center">
