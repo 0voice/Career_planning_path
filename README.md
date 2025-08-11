@@ -408,71 +408,76 @@
 
 #### [194. 双非硕研三：感觉算法不好找工作，是继续找小厂算法还是换方向？](https://www.bilibili.com/video/BV1aKDYY1E8m?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [195. 中九本科打算就业，c++和java究竟该怎么选？](https://www.bilibili.com/video/BV1q7pweUEjy?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
+#### [195. RAG大模型研究方向冷门，要不要自学转开发？](https://www.bilibili.com/video/BV1rHD6YmEPL?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [196. 三本计划读研，java还是数据分析？](https://www.bilibili.com/video/BV1MAHFetEbk?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
+#### [196. 秋招Offer：腾讯iOS开发与海信嵌入式总包少20万如何选择？要不要再搏春招？](https://www.bilibili.com/video/BV1SgmWYgEXB?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [197. 二本考研失败，就业的话走java还是嵌入式？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+#### [197. 985计算机大二，准备本科工作，应该走怎样的学习路线？](https://www.bilibili.com/video/BV157maYBEca?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [198. CSS 中的 BFC（块级格式上下文）？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+#### [198. 从考场到职场，不会面试的我，该如何准备和面试官的沟通？](https://www.bilibili.com/video/BV19JUKYPEzW?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [199. JS 中的闭包（闭包是什么？原理？）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+#### [199. 校招简历究竟该怎么写？为什么我的简历连一面邀请都没有？](https://www.bilibili.com/video/BV1Z3UKYzEuu?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [200. 怎么用闭包实现单例设计模式？](1)
 
-#### [201. 怎么用闭包实现单例设计模式？](1)
+#### [200. 211科班：如何决定职业方向？一旦选择就坚定走下去](https://www.bilibili.com/video/BV1fQUKYGEAL?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [202. 怎么用闭包实现单例设计模式？](1)
+#### [201. 双非本科末9硕offer选择纠结，中科院和大厂offer该怎么选？转Java找工作和跳槽机会更多？](https://www.bilibili.com/video/BV1D6U5YQEY3?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [203. 怎么用闭包实现单例设计模式？](1)
+#### [202. 211师范大学非师范计算机女生：有基础但思路混乱，如何高效备战秋招实战？](https://www.bilibili.com/video/BV1MHmDYmEJc?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [204. 怎么用闭包实现单例设计模式？](1)
+#### [203. 双非研一：听说现在找工作很不好找，该做什么来提升竞争力？](https://www.bilibili.com/video/BV15UUpYJEGU?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [205. 怎么用闭包实现单例设计模式？](1)
+#### [204. C++只会一点其他的408还没学，明年秋招走C++开发还有机会吗？](https://www.bilibili.com/video/BV1ydUxY3ENZ?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [206. 怎么用闭包实现单例设计模式？](1)
+#### [205. 985女生大二，学STM32是浪费学历吗？如何找到适合自己的方向？](https://www.bilibili.com/video/BV14SUxYLExn?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [207. 怎么用闭包实现单例设计模式？](1)
+#### [206. 研究方向GPS+IMU姿态导航相还没深入接触过，研二开始学还能不能赶上？](https://www.bilibili.com/video/BV1fmScYYE41?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [208. 怎么用闭包实现单例设计模式？](1)
+#### [207. 目前研一自学C++，如何找到适合的C++项目？](https://www.bilibili.com/video/BV1ZwSMY7ECX?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [209. 怎么用闭包实现单例设计模式？](1)
+#### [208. 刷算法真的是提升代码能力最快的方法吗？](https://www.bilibili.com/video/BV1kXSTYsEfT?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [210. 怎么用闭包实现单例设计模式？](1)
+#### [209. 应届生就业是选择高薪还是注重平台？](https://www.bilibili.com/video/BV1cdSTYpEMM?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [211. 怎么用闭包实现单例设计模式？](1)
+#### [210. 有C++和Python基础，春招到底是学Java还是走测试岗位更好？](https://www.bilibili.com/video/BV142SuYTEdm?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [212. 怎么用闭包实现单例设计模式？](1)
+#### [211. 两款项目：分布式IM+仿腾讯会议项目，秋招能否拿到音视频大厂Offer？](https://www.bilibili.com/video/BV13aBvYWEka?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [213. 怎么用闭包实现单例设计模式？](1)
+#### [212. C++应届生工作4个月被裁，下一步怎么办？](https://www.bilibili.com/video/BV1F6BBYyEHC?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [214. 怎么用闭包实现单例设计模式？](1)
+#### [213. 老师就是不放实习，只能等秋招了怎么办？](https://www.bilibili.com/video/BV1SEBmYSEPB?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [215. 怎么用闭包实现单例设计模式？](1)
+#### [214. 华中农计科25应届生秋招0offer，如何才能春招上岸？](https://www.bilibili.com/video/BV17wBmYaEhN?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [216. 怎么用闭包实现单例设计模式？](1)
+#### [215. 郑州大学大二：亲戚推荐嵌入式，别人说浪费学历不如机器人工程，我该如何选择？](https://www.bilibili.com/video/BV1dWB2Y4EtK?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [217. 怎么用闭包实现单例设计模式？](1)
+#### [216. 土木工作2年，考研到211计科，目前研二，该如何准备秋招？](https://www.bilibili.com/video/BV1R4B2YsEcd?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [218. 怎么用闭包实现单例设计模式？](1)
+#### [217. 自动化女生研二，实验室资源有限，如何找到合适的开发岗位？](https://www.bilibili.com/video/BV1wtzKY4Ei2?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [219. 怎么用闭包实现单例设计模式？](1)
+#### [218. 大一二本学生如何选择编程语言：学Java好就业还是学C++为考研？](https://www.bilibili.com/video/BV1Taz5YdEFR?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [220. 怎么用闭包实现单例设计模式？](1)
+#### [219. 双非+QS100硕士：回国求职选春招还是秋招？技术与履历掉队如何应对？](https://www.bilibili.com/video/BV1QSBRYkEKp?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [221. 怎么用闭包实现单例设计模式？](1)
+#### [220. 双非科班目标中小厂开发岗，如何规划春招和秋招？力扣算法需准备吗？](https://www.bilibili.com/video/BV1CUz8YFEng?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [222. 怎么用闭包实现单例设计模式？](1)
+#### [221. 大一软件新生如何规划嵌入式开发学习路径？](https://www.bilibili.com/video/BV1tzz8YKEgH?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [223. 怎么用闭包实现单例设计模式？](1)
+#### [222. 985本硕就业，物联网与Linux开发哪个方向更适合找工作？](https://www.bilibili.com/video/BV12CzrYAE3d?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [224. 怎么用闭包实现单例设计模式？](1)
+#### [223. 秋招C++求职屡次碰壁，项目经历不匹配，是否该转行学Java或嵌入式？](https://www.bilibili.com/video/BV14CznYkES2?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### [225. 怎么用闭包实现单例设计模式？](1)
+#### [224. 211科班从二战复试失败到被裁员，如何重新规划职业发展？](https://www.bilibili.com/video/BV1cnzpYKEwR?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### [225. 26届211本科，大三才开始学能否追赶上进度？考研与工作三年哪个对未来发展更有利？](https://www.bilibili.com/video/BV1M16MYyEsv?spm_id_from=333.788.player.switch&vd_source=1680a6fedc2270f3c093e88857407609)
 
 #### [226. 怎么用闭包实现单例设计模式？](1)
 
 #### [227. 怎么用闭包实现单例设计模式？](1)
+
+
+
+
 
 #### [228. 怎么用闭包实现单例设计模式？](1)
 
