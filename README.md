@@ -43,6 +43,7 @@
 * [游戏](#7)
 * [FPGA](#8)
 * [CV](#9)
+* [杭电](#10)
 * [AI](#11)
 * [校招](#12)
 * [华为od](#13)
@@ -748,79 +749,45 @@
 
 ---
 
-<h3 id="10">非科班</h3> 
+<h3 id="10">杭电</h3> 
 
 
 
-##### [10.1.1 2本9硕国企裸辞自学编程，有机会进大厂吗？](https://www.bilibili.com/video/BV1PLwYefEcg/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.1 杭电958研一迷茫：FPGA高薪路？还是自学Java转后端？](https://www.bilibili.com/video/BV1zUtQeuEAa)
 
-##### [10.1.2 大一警校生想跨考计算机，网传计算机就业不行，7 年后会找不到工作吗？](https://www.bilibili.com/video/BV1Z8wYeEEFR/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.2 双非本杭电硕研二准备3个月边实习边零基础学C++，秋招冲刺C++岗位这条路可行吗](https://www.bilibili.com/video/BV1VbCoYYEBe)
 
-##### [10.1.3 211本中科院所，国企工作半年后想回归互联网，该如何抉择？](https://www.bilibili.com/video/BV1CXwheREgm/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.3 杭电本北理硕毕业走开发的话，技术方向该怎么选？](https://www.bilibili.com/video/BV1yqYTeqEVB)
 
-##### [10.1.4 大四跨考计算机专业，考研与实习两手抓，如何规划学习路线，提升实习机会的成功率？](https://www.bilibili.com/video/BV11FwPejEVQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.4 杭电硕计科研一，想卷java进大厂!这个目标真的靠谱吗？](https://www.bilibili.com/video/BV1yRS3YzEfu)
 
-##### [10.1.5 西电人工智能大三本科就业，迷茫就业方向该走前端、后端还是测开？](https://www.bilibili.com/video/BV1yDPCeaEMb/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.5 杭电自动化大二路线规划：做项目、打竞赛与考研，哪个更助于进入大厂？](https://www.bilibili.com/video/BV1Zq9JYoEp6)
 
-##### [10.1.6 通信专业研一，刚学完CPP基础语法，如何规划自学路线并确定后续方向？](https://www.bilibili.com/video/BV1oEwPePEtW/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.6 杭电硕士研一前端转C++音视频，研三实习前如何提升竞争力？](https://www.bilibili.com/video/BV1GT9JYEEr6)
 
-##### [10.1.7 女生大四保研网安，医学图像处理项目经验，迷茫中如何选择学习方向？](https://www.bilibili.com/video/BV1fSNae4E1d/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.7 双非本杭电研一，零基础转C++底层开发，想进大厂哪个方向更容易进？做什么项目？](https://www.bilibili.com/video/BV1xDLUzqEoB)
 
-##### [10.1.8 二本计算机科班生真的可以吊打985土木水利生化环材的转码生吗？](https://www.bilibili.com/video/BV1dHwPewEAD/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.8 考研调剂到杭电，想进大厂，要不要二战重考？](https://www.bilibili.com/video/BV1dH5LzWEJ9)
 
-##### [10.1.9 通信专业研一，刚学完CPP基础语法，如何规划自学路线并确定后续方向？](https://www.bilibili.com/video/BV1oEwPePEtW/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.9 杭电研二 CAD 内核开发，几何算法经验+测试经验适合哪些就业方向？](https://www.bilibili.com/video/BV1zfMyzFEcv)
 
-##### [10.2.0 土木二战跨考985计算机复试中，不知选啥研究方向，复试前要准备项目吗？](https://www.bilibili.com/video/BV15JwVesEYY/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.0 大专3+2，未来计划升杭电，能走Qt吗，还是说要去走java](https://www.bilibili.com/video/BV1P6HNeqEf8)
 
-##### [10.2.1 末流211机械本科预计上岸985软工，导师有搜广推、大数据分析、计算机视觉方向，想进大厂该咋选？](https://www.bilibili.com/video/BV1xucmeKEGp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.1 杭电研一：时间不够是该全心投入导师给的项目，还是留时间自学开发？如何规划未来求职方向？](https://www.bilibili.com/video/BV1nYmUYaE46)
 
-##### [10.2.2 中9天坑本科转专业失败后摆烂，工作后二战有望上岸，如何在研究生三年弥补差距、规划目标？](https://www.bilibili.com/video/BV1HEcmeFESy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.2 杭电大二新闻传播到华为光产品线，偏向光猫领域，未来能否顺利跳槽嵌入式开发岗？](https://www.bilibili.com/video/BV1GLCqY6Egk)
 
-##### [10.2.3 二本机械非科班，6年QT年薪40W，想进大厂应该选择什么技术方向？](https://www.bilibili.com/video/BV1gKrzYqEgg/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.3 杭电数学系研二，自学深度学习强化学习想冲大厂算法岗？该重点学哪些内容？](https://www.bilibili.com/video/BV1JHoRYiEv2)
 
-##### [10.2.4 23届末9非科班，考研失利后gap一年半还能走技术路吗？选择什么方向机会更大？](https://www.bilibili.com/video/BV1xqr6YNEmZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.4 杭电自动化大三学嵌入式 Linux ，接下来是学驱动还是走应用更好？](https://www.bilibili.com/video/BV1hodVYqERg)
 
-##### [10.2.5 双非本211硕士非科班，C++学完基础后如何继续深入？未来投递哪些岗位和企业最合适？](https://www.bilibili.com/video/BV1LJCaYaECc/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.5 杭电生医工研一想转码，学CPP还是Java进大厂更有优势？](https://www.bilibili.com/video/BV1SGoLYuEKB)
 
-##### [10.2.6 两财一贸大四跨考计算机，有数学和 C 语言基础，一年备考够吗？就业会被歧视吗？](https://www.bilibili.com/video/BV1VJcteZE8k/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.6 杭电本 + 海外硕士，回国就业算法转开发选什么语言有前景？](https://www.bilibili.com/video/BV1mxGbz3Eta)
 
-##### [10.2.7 对于非科班学生，编程能力具体是什么，如何锻炼编程能力?](https://www.bilibili.com/video/BV1x9D6YdEy5/?spm_id_from=333.1387.search.video_card.click)
+##### [10.2.7 杭电控制研一，自学Linux C++能冲击哪些大厂岗位？](https://www.bilibili.com/video/BV144MmzUEr1)
 
-##### [10.2.8 土木硕转CAE软件开发，可行性有多高？](https://www.bilibili.com/video/BV1f6UeYWEWk/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.2.9 数字媒体艺术专业想转行 IT，没有基础如何选择合适的方向？](https://www.bilibili.com/video/BV1SqznY1EBF/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.0 22年会计学毕业男生转行计算机是否可行？自学还是报培训班更合适？](https://www.bilibili.com/video/BV1wuzrY4Efd/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.1 985本硕土木工程毕业转开发，没有计算机背景，如何顺利找到理想工作？](https://www.bilibili.com/video/BV1uMCbYVEcz/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.2 理工本科非科班学了网安却只能干运维，现在转鸿蒙开发能否弯道超车？](https://www.bilibili.com/video/BV1gBCmYvEhV/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.3 211硕非科班秋招签约小米，如何规划接下来的职业发展？跳槽、转岗或副业？](https://www.bilibili.com/video/BV1BEq6YCE6M/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.4 投递300+，三次一面全挂！非科班211硕如何突破秋招困境？](https://www.bilibili.com/video/BV1Kkz8YNEyj/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.5 双非科班目标中小厂开发岗，如何规划春招和秋招？力扣算法需准备吗？](https://www.bilibili.com/video/BV1CUz8YFEng/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.6 双非专业交通运输专业研一转码Python够用吗？还是选择C++ or Java？](https://www.bilibili.com/video/BV196SoY1ENX/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.7 土木转码有多难？985本硕土木工程系转行做程序开发，学习路径与求职策略解析](https://www.bilibili.com/video/BV119SRYFESn/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.8 985数学系计划转院计算机，哪些方向是‘香饽饽’高门槛？](https://www.bilibili.com/video/BV1w3yQYYEV4/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.3.9 985本复旦硕材料专业，就业寒冬要不要转码，如何毕业找工作做准备？](https://www.bilibili.com/video/BV18RyDY5EzR/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.4.0 工科转开发与非科班转码的区别：学习路线与就业方向](https://www.bilibili.com/video/BV1BiDHYxEtL/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.4.1 双非土木跨考失败，调剂遇冷！计划退学另谋出路？考公还是进互联网？](https://www.bilibili.com/video/BV1dDm8YTEuP/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.4.2 96年28岁0基础转行计算机可以吗?](https://www.bilibili.com/video/BV118m8YDEQR/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.4.3 非科班本硕转码，马上研二了，有没有推荐的学习路线？](https://www.bilibili.com/video/BV1yvpEeGEu9/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.4.4 非科班本2，保研硕9的话，推荐哪个读研方向？](https://www.bilibili.com/video/BV1j2nfeuEyb/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [10.4.5 本9土木，工地干了5年，人大硕 毕业走开发的话推荐什么方向](https://www.bilibili.com/video/BV1SZsKeREKL/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.8 杭电本科2年C++后端，裸辞后才发现C++赛道太窄？如何破局跳槽or转行？](https://www.bilibili.com/video/BV1qcMpz8Eq4)
 
 
 ---
