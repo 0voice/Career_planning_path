@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="1.png" alt="2025 AI Learning Banner" width="100%">
+  <img src="1.png" alt="2025 AI Learning Banner" width="60%">
 </p>
 
 ---
