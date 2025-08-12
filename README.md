@@ -12,7 +12,13 @@
   💡 内容持续更新，为你提供最前沿的行业洞察和实战经验！
 </p>
 
+
+<p align="center">
+  <img src="1.png" alt="2025 AI Learning Banner" width="100%">
+</p>
+
 ---
+
 
 ### 🔥项目亮点
 
