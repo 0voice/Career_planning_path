@@ -2152,5 +2152,26 @@
 
 #### 711. [双非软工大三想考省内 211，对技术兴趣不明，求专业选择 + 职业规划指导？](https://www.bilibili.com/video/BV1M9thzRE8R)
 
+---
 
+## ## <h3 id="2">非科班转码</h3> 
 
+#### 1. [双非电子信息硕，打算走c++和go,有什么建议吗？](https://www.bilibili.com/video/BV1hCYMeHER1)
+
+#### 2. [大专学历能走c++什么方向？](https://www.bilibili.com/video/BV19TaSePEVh)
+
+#### 3. [C9非科班，一年qt客户端开发经验，能转c++的哪些方向？](https://www.bilibili.com/video/BV1XfYjeVExE)
+
+#### 4. [本科一本土木海硕QS150，能走java大数据吗？](https://www.bilibili.com/video/BV1EJeJehEco)
+
+#### 5. [本二硕九，做java还是做fpga项目？](https://www.bilibili.com/video/BV13geEeUEhJ)
+
+#### 6. [专科学历能不能走c++服务器或是自动驾驶方向？](https://www.bilibili.com/video/BV1WTWYeDEoV)
+
+#### 7. [末流985材料本，想走开发，是去自考华为OD还是报班走自研？](https://www.bilibili.com/video/BV1zbWDebEf7)
+
+#### 8. [好像什么都会，但是大厂就是面不过，该如何优化？](https://www.bilibili.com/video/BV13sWSe5Eiv)
+
+#### 9. [考研失败，计划考公，想学个技术保底，推荐什么方向](https://www.bilibili.com/video/BV1ZdWQefEMA)
+
+#### 10. [宇宙厂管培生想换开发，华为OD的offer能接吗](https://www.bilibili.com/video/BV1vCs4eREY9)
