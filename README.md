@@ -2154,7 +2154,7 @@
 
 ---
 
-## ## <h3 id="2">非科班转码</h3> 
+## <h3 id="2">非科班转码</h3> 
 
 #### 1. [双非电子信息硕，打算走c++和go,有什么建议吗？](https://www.bilibili.com/video/BV1hCYMeHER1)
 
