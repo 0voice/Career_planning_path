@@ -58,8 +58,6 @@
 
 <h3 id="1">C/C++</h3> 
 
----
-
 ##### [1.1.1 双非本西电通信工程研一无人机地面站方向，想转行C++，哪个岗位最适合进大厂？](https://www.bilibili.com/video/BV177Noe4EJi/?spm_id_from=333.1387.upload.video_card.click)
 
 ##### [1.1.2 2本通信gap两年半，报培训班C++QT，进华为OD失败接下来如何规划职业方向？](https://www.bilibili.com/video/BV1vHNoeXEvT/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
