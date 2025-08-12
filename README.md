@@ -5297,3 +5297,782 @@
 ---
 
 #### <h3 id="27">程序员社招</h3> 
+
+#### 1. [大厂被辞，目前就接到一个外包offer，能去吗？](https://www.bilibili.com/video/BV1Q2afetE5c)
+
+
+#### 2. [面试HR谈薪，自己不满意怎么办？](https://www.bilibili.com/video/BV1hDafedEKL)
+
+
+#### 3. [技术很一般的30+程序员，是该努力提升技术还是考公？](https://www.bilibili.com/video/BV17qaSeCEoH)
+
+
+#### 4. [5年c++程序员，空窗一年，还能找到工作吗？](https://www.bilibili.com/video/BV15eY7eJERk)
+
+
+#### 5. [普本c++程序员，三年三家公司，gap一年，还能找到工作吗？](https://www.bilibili.com/video/BV1HrewepEJm)
+
+
+#### 6. [虚拟化怎么样？要怎么入门学习呢？](https://www.bilibili.com/video/BV1aBeGeNE4s)
+
+
+#### 7. [985本top2硕传统工科，如何去选择职业方向和提升技术](https://www.bilibili.com/video/BV1XKpZeeEYR)
+
+
+#### 8. [包装简历投华为OD背调能过吗？](https://www.bilibili.com/video/BV1MrpSeBE5A)
+
+
+#### 9. [工作3年，一直做嵌入式应用开发，后续发展该如何规划？](https://www.bilibili.com/video/BV1DqWYeFEj5)
+
+
+#### 10. [985本，两年嵌入式经验，想跳槽算法岗要怎么办呢？](https://www.bilibili.com/video/BV1htsWeuETY)
+
+
+#### 11. [c++程序员走高性能网络，需要学java吗？](https://www.bilibili.com/video/BV1CFsWetEZk)
+
+
+#### 12. [35岁，目前做负载均衡公司降薪20%，要不要换去无人驾驶](https://www.bilibili.com/video/BV1B1sMerEca)
+
+
+#### 13. [拿了新offer，现领导卡我一星期，会不会被新公司毁offer](https://www.bilibili.com/video/BV1LDsMeMEqA)
+
+
+#### 14. [目前在做工业软件开发，想拓宽技术，后续有什么发展路线吗？](https://www.bilibili.com/video/BV1aLsMewEyj)
+
+
+#### 15. [211本深大硕，这个学历在互联网够用吗？](https://www.bilibili.com/video/BV1BvHKefEKw)
+
+
+#### 16. [会DSP和STM32，要学linux的话多久能入门？](https://www.bilibili.com/video/BV1Z7HEefE3j)
+
+
+#### 17. [普通一本，大厂面不上，家里催着考公，想留在互联网怎么办？](https://www.bilibili.com/video/BV1k3nZeVEpd)
+
+
+#### 18. [失业被裁，同学推荐去DPDK做智能网卡，要想提高通过率的话，如何去准备面试？](https://www.bilibili.com/video/BV11gpMemEpi)
+
+
+#### 19. [211本，考研失败后开始工作，感觉发展有限，想辞职二战，后面能去中大厂算法岗吗？](https://www.bilibili.com/video/BV1CAHDe8E1t)
+
+
+#### 20. [双非一本，华为OD三年，想跳槽，学习linux内核或是c++是否合适？](https://www.bilibili.com/video/BV1CpHSeoEU4)
+
+
+#### 21. [211本985硕，c++后端3年工作经验 可以直接面dpdk开发的岗位吗？](https://www.bilibili.com/video/BV1TT4YeaE5q)
+
+
+#### 22. [中985本，做过一年嵌入式，后考研再找工作到新华三，部门不太满意，不知道要不要接这个offer](https://www.bilibili.com/video/BV1D74redEu5)
+
+
+#### 23. [双非本大数据，目前做c++Qt,感觉门槛不高，可以转什么方向？](https://www.bilibili.com/video/BV1Um4HeeE5r)
+
+
+#### 24. [三本自动化测试，可以读一个非全硕走云计算安全吗？](https://www.bilibili.com/video/BV1sF4feAEdj)
+
+
+#### 25. [刚入职新公司20天，心仪公司又发来了offer，要辞职过去吗？](https://www.bilibili.com/video/BV1uAtNesE5g)
+
+
+#### 26. [开发去技术支持轮岗半年，对个人发展有帮助吗？](https://www.bilibili.com/video/BV1SHtPepEFN)
+
+
+#### 27. [已经35岁了，技术一般，有点慌了，后面要怎么规划呢？](https://www.bilibili.com/video/BV1KvtMeFELE)
+
+
+#### 28. [面试多凉的也多，面试过程项目都不怎么问，就挂了，是哪里出了问题？](https://www.bilibili.com/video/BV162tMeQEad)
+
+
+#### 29. [二本刚毕业入嵌入式岗位：迷茫之中，接下来该如何继续学习和发展？](https://www.bilibili.com/video/BV1kNxEekEE3)
+
+
+#### 30. [211非科班华为OD一年C++经验，跳槽发现方向太偏很难找到对口的，是选择考研换方向还是再积累经验？](https://www.bilibili.com/video/BV1D4xTeZEqH)
+
+
+#### 31. [28岁外包Java程序员：收入不稳定考研考了几年一言难尽，放弃是明智之举吗？](https://www.bilibili.com/video/BV1omxWeEEFU)
+
+
+#### 32. [转行Java外包工作3年却技术不精，现被裁我该如何重启职业生涯？](https://www.bilibili.com/video/BV1XZxxeJE6Y)
+
+
+#### 33. [双非一本学历毕业1年从Windows跳到Linux，对未来方向迷茫，如何规划未来发展方向？](https://www.bilibili.com/video/BV1gwx4emEdR)
+
+
+#### 34. [小公司做传奇类MMO C++服务器开发值得去吗？后续好跳槽发展吗？](https://www.bilibili.com/video/BV11H2JYpEdy)
+
+
+#### 35. [财务跳槽转Java后端靠谱吗？转行真的那么简单吗？](https://www.bilibili.com/video/BV1gk2VY1EeB)
+
+
+#### 36. [双非本211硕士面临选择：学习硬件还是专注金融IT？哪个方向更具前景？](https://www.bilibili.com/video/BV1ywCRYGEYj)
+
+
+#### 37. [一年后端开发转Golang求职被经验门槛卡住，如何突破？](https://www.bilibili.com/video/BV1XdynYwEZp)
+
+
+#### 38. [双非硕都通信工程，毕业后29，如何应对35岁年龄危机？寻找适合自己的职业路径](https://www.bilibili.com/video/BV1nRy6YeEjo)
+
+
+#### 39. [在职自学想进鹅厂学习路线迷茫，后台开发方向要不要深入C++算法？职业发展规划详解！](https://www.bilibili.com/video/BV1yWSBYyEqV)
+
+
+#### 40. [从嵌软开发到架构师？如何从公司现有框架中突破自我规划自己的职业发展？](https://www.bilibili.com/video/BV1HHDQY7ELF)
+
+
+#### 41. [23届大数据毕业生，教育培训做了一年，如何规划转行成为开发者？](https://www.bilibili.com/video/BV1S4UKYbEVX)
+
+
+#### 42. [选择了海光C语言开发，跳槽机会多吗？未来职业发展如何？](https://www.bilibili.com/video/BV1tuUjYQE1s)
+
+
+#### 43. [双一流硕软工专业，3年Qt开发经验只能拿到小公司Offer？有没有好的建议？](https://www.bilibili.com/video/BV1FwULYBE2d)
+
+
+#### 44. [裸辞后找不到合适的Java工作，只能投身小公司！要转其他领域吗？](https://www.bilibili.com/video/BV18kU5YHEq3)
+
+
+#### 45. [C语言开发者如何规划职业路径？自我提升要抓住哪些关键技能？](https://www.bilibili.com/video/BV1hLmDYQESB)
+
+
+#### 46. [五年音视频开发安防经验，想转纯嵌入式，做主流芯片开发，推荐吗？](https://www.bilibili.com/video/BV1KsUeYvExe)
+
+
+#### 47. [22届通信工程毕业生，现在学嵌入式单片机能找到工作吗？](https://www.bilibili.com/video/BV1SZUpYGEQC)
+
+
+#### 48. [误打误撞进入陌生领域，就业前景不明是继续深挖还是换赛道？](https://www.bilibili.com/video/BV1oxSuYUEEf)
+
+
+#### 49. [工作半年陷入迷茫，用C语言开发基础库是否需要考虑换工作？](https://www.bilibili.com/video/BV1kiBBYjEvx)
+
+
+#### 50. [八年java经验，后续往哪个方向拓展比较合适？](https://www.bilibili.com/video/BV1KWBmY7Eda)
+
+
+#### 51. [目前工作一年半，不知道自己的岗位怎么跳槽？自我提升？](https://www.bilibili.com/video/BV1HXB2YBE13)
+
+
+#### 52. [毕业从事TBOX应用开发，如何做好未来的职业规划？](https://www.bilibili.com/video/BV1FdB2YiEWE)
+
+
+#### 53. [双9科班校招转到iOS客户端，是否转回更有前景？学习Java或Go是否更有利于职业发展？](https://www.bilibili.com/video/BV1qdB9YUEYK)
+
+
+#### 54. [非科班从化工厂到Java开发上岸，如何突破职业上限？是否该考虑嵌入式开发？](https://www.bilibili.com/video/BV1mszYY3Egi)
+
+
+#### 55. [DPDK、VPP经验能否转型？31岁通信专业如何规划进入国企？](https://www.bilibili.com/video/BV1PgznYNEKX)
+
+
+#### 56. [27岁大龄转码秋招惨败，朋友劝我转Java来得及吗？还是继续走前端或机器学习？](https://www.bilibili.com/video/BV1uF6KYzERY)
+
+
+#### 57. [C++程序员入职半年，每天调库搬砖，未来技术方向该如何规划？](https://www.bilibili.com/video/BV15rzSYiEJE)
+
+
+#### 58. [进入芯片原厂做嵌入式开发，如何规划技术发展和未来的职业方向](https://www.bilibili.com/video/BV1KozSYxEYS)
+
+
+#### 59. [新能源工厂做后端开发，面对老旧技术体系缺乏技术积累，如何提升自己？](https://www.bilibili.com/video/BV1Uoi9YcEao)
+
+
+#### 60. [入职中厂工作一年多跳槽难提升慢，如何摆脱API工具人的困境？](https://www.bilibili.com/video/BV1v7qVYbExZ)
+
+
+#### 61. [大专学历能达到40K月薪吗？](https://www.bilibili.com/video/BV1w3q6YEEMV)
+
+
+#### 62. [计算机科班不喜欢编程，该如何在计算机相关或以外的领域寻找发展道路呢？](https://www.bilibili.com/video/BV1sKq6YQEQ1)
+
+
+#### 63. [offer选择：深圳985VS成都995，小公司高薪与大平台稳定如何权衡未来发展？](https://www.bilibili.com/video/BV1kbqDY2EqA)
+
+
+#### 64. [双非本211硕士驱动开发，工作中涉及Linux技术越来越少如何突破瓶颈？规划未来技术成长路线？](https://www.bilibili.com/video/BV1RMkbYEExr)
+
+
+#### 65. [Java后端工程师在小公司担任多职，除了编写代码，还涉及项目管理与招投标，如何规划自己的职业发展？](https://www.bilibili.com/video/BV1X3kbYjE1f)
+
+
+#### 66. [研究了4年的底层技术，为什么我找不到工作？](https://www.bilibili.com/video/BV1ZwkbYpEFT)
+
+
+#### 67. [Linux C在汽车行业应用方向如何学？以及规划更好的职业发展路径？](https://www.bilibili.com/video/BV1SpkhY2ELc)
+
+
+#### 68. [双非毕业一年半，一直在工厂做WPF上位机，技术陈旧又受限，如何选择适合的转行方向？](https://www.bilibili.com/video/BV1SVCYYsE3A)
+
+
+#### 69. [普通本科非科班入行智能制造，跳槽车企是否合适？换行业还是继续深耕？](https://www.bilibili.com/video/BV1LW6VYKEK5)
+
+
+#### 70. [30K的医疗上位机开发，如何寻求更高的薪资突破？](https://www.bilibili.com/video/BV1pX6BYpEHC)
+
+
+#### 71. [有没有学习起来比较快相对简单的方向？学习路线是怎样的？](https://www.bilibili.com/video/BV1girYYXEXC)
+
+
+#### 72. [国企BIM程序员，工作三年薪资不高，想跳槽但是担心找不到工作，能转行到哪些更高薪的岗位？](https://www.bilibili.com/video/BV1R4rYYZEmE)
+
+
+#### 73. [二本机械非科班，6年QT年薪40W，想进大厂应该选择什么技术方向？](https://www.bilibili.com/video/BV1gKrzYqEgg)
+
+
+#### 74. [20届中9院校毕业工作后摆烂，现25岁想重拾编程，还能走这条路吗？](https://www.bilibili.com/video/BV1g4wVeSE1L)
+
+
+#### 75. [24届非科班硕士入职做上位机开发，后续往工业软件还是音视频、后端发展？](https://www.bilibili.com/video/BV1ofwLevEfV)
+
+
+#### 76. [本科国贸37岁转行前端现做Java和QT，刚获物联网自考本科，面临40岁危机该转嵌入式吗？](https://www.bilibili.com/video/BV1TqwLeDEmb)
+
+
+#### 77. [大专毕业辗转多份工作，想进中大厂做游戏后端，成人本科学历+裸辞刷题有机会吗？](https://www.bilibili.com/video/BV1hmwAexEyK)
+
+
+#### 78. [四年Java开发经验转型制造业IT，如何在转型过程中提高技能，做好未来的职业规划？](https://www.bilibili.com/video/BV1CAwPe5EmY)
+
+
+#### 79. [211本中科院所，国企工作半年后想回归互联网，该如何抉择？](https://www.bilibili.com/video/BV1CXwheREgm)
+
+
+#### 80. [2本9硕国企裸辞自学编程，有机会进大厂吗？](https://www.bilibili.com/video/BV1PLwYefEcg)
+
+
+#### 81. [民办二本非一线做单片机程序开发，如何利用下班时间提升技能？一线城市有更好的职业机会？](https://www.bilibili.com/video/BV1E1waeJEkB)
+
+
+#### 82. [专升本机械电子，工控视觉上位机开发一年多007常出差扛不住，转QT和考研哪个更合适职业发展？](https://www.bilibili.com/video/BV1bpPye6EwC)
+
+
+#### 83. [中九非科班20年毕业，华为 OD 做 Java 后端想转 C++，能找到深度学习挂钩的岗工作吗？](https://www.bilibili.com/video/BV1aEPyeVEFX)
+
+
+#### 84. [10 年Java开发找工作因学历屡碰壁，是否应该转型到Golang或区块链方向？](https://www.bilibili.com/video/BV1mVNHeGE1W)
+
+
+#### 85. [双非硕做QNX平台开发，想转Linux驱动开发，去芯片原厂机会大吗？](https://www.bilibili.com/video/BV1dTNNe3ETY)
+
+
+#### 86. [双非本计科游戏开发一年被开，是读研提升学历还是还是自学再就业？](https://www.bilibili.com/video/BV1vNN5eeEHq)
+
+
+#### 87. [30岁硕士Linux C开发背景，未来想去澳洲就业，研究方向选AI、SDN漏洞还是Linux内核？](https://www.bilibili.com/video/BV19xNVecEvu)
+
+
+#### 88. [37岁程序员11年开发经验，想去香港或海外发展，如何规划职业路径？](https://www.bilibili.com/video/BV1XtNVefEur)
+
+
+#### 89. [offer选择：互联网Java后端 vs 华为CC++软开，薪资、技术含量和未来发展如何权衡？](https://www.bilibili.com/video/BV1mzNoe3EMj)
+
+
+#### 90. [2本通信gap两年半，报培训班C++QT，进华为OD失败接下来如何规划职业方向？](https://www.bilibili.com/video/BV1vHNoeXEvT)
+
+
+#### 91. [本科中厂Java后端干两年半想换岗，担心就业面和技术门槛如何规划未来？](https://www.bilibili.com/video/BV1fDNaedEAn)
+
+
+#### 92. [985硕军工国企C++开发一年半技术老旧无成长，想转行游戏后台开发或进入互联网大厂如何规划？](https://www.bilibili.com/video/BV19YKWeFEJy)
+
+
+#### 93. [大三学的Java没有独立项目经历，如何快速提升竞争力？](https://www.bilibili.com/video/BV1LtKWeeEvX)
+
+
+#### 94. [吉大科班毕业C++开发月薪15K，但因母亲患病辞职照顾，现准备重新规划职业生涯应该走哪个方向？](https://www.bilibili.com/video/BV1K3ATe8ESv)
+
+
+#### 95. [初中没读完成绩不错但厌恶学校环境，对C++感兴趣该不该辍学去学C++？](https://www.bilibili.com/video/BV16tAaeREvk)
+
+
+#### 96. [华五硕24届毕业电气工程师年薪30万，想转嵌入式当前经济环境下可行吗？何时跳槽合适？](https://www.bilibili.com/video/BV14EAeezEYF)
+
+
+#### 97. [23岁非软工毕业辞职备考211硕，复试没过该在职备考还是卷技术？过了该卷哪条路？](https://www.bilibili.com/video/BV1XpPNeTE9R)
+
+
+#### 98. [从群雄割据到一统天下，DeepSeek 大模型为何如此抢手？](https://www.bilibili.com/video/BV1BHPaeXEPw)
+
+
+#### 99. [2025年了C++23还值得深入学习吗？还是该转向Rust或Go？](https://www.bilibili.com/video/BV1dGPvexEUg)
+
+
+#### 100. [刚学完C语言，如何学好数据结构？有必要深究每一句语句吗？](https://www.bilibili.com/video/BV1ciPHeYEom)
+
+
+#### 101. [25 岁大专搞焊接机器调试，懂点 PLC 想转嵌入式有机会吗？](https://www.bilibili.com/video/BV1v89wYzE4J)
+
+
+#### 102. [41岁Java开发被裁后失业半年，因AI发展迷茫华为OD值得去吗？会有提升吗？](https://www.bilibili.com/video/BV1eQ9cYvEvE)
+
+
+#### 103. [二本自动化毕业，目前做图形学想进大公司做游戏或加速计算，必要水个海外硕士吗？](https://www.bilibili.com/video/BV1WY9cYUEHh)
+
+
+#### 104. [211本非科班女生转码数仓开发两年，如何覆盖背景劣势冲击大厂或中厂管理层？](https://www.bilibili.com/video/BV1Rz97YmECa)
+
+
+#### 105. [10年Web开发3年管理，面对 AI 热度合自身经验转型 AI Agent 是否是个明智选择？](https://www.bilibili.com/video/BV1in9nYtEsB)
+
+
+#### 106. [985本科通信运维5年，面对行业压力与技术革新想转码适合吗？有哪些好选择？](https://www.bilibili.com/video/BV1bq9nY2E4W)
+
+
+#### 107. [自动化本科毕业工作经验杂、基础弱，现离职Offer都是小公司，如何系统学习并找到理想工作？](https://www.bilibili.com/video/BV19NRNYjESF)
+
+
+#### 108. [32岁Java被裁后转外包16K，还有必要继续坚持Java吗？华为OD还是考公更优？](https://www.bilibili.com/video/BV1TqRPYiEoN)
+
+
+#### 109. [工作一年想跳槽，C++偏技术岗位有哪些方向？现在跳槽明智吗？](https://www.bilibili.com/video/BV1TDRHYDE3e)
+
+
+#### 110. [26岁普通本科毕业，想转嵌入式硬件行业，基础薄弱无项目，还有机会吗？](https://www.bilibili.com/video/BV13oQFYxEdS)
+
+
+#### 111. [211 本 C9 硕，军工工作一年半想离职，QT开发还是转行、读博、考编？](https://www.bilibili.com/video/BV1MKQcYJEcC)
+
+
+#### 112. [211保研华五，有大厂后端实习，该坚持开发还是转向大模型风口？](https://www.bilibili.com/video/BV1rPQPY7E5y)
+
+
+#### 113. [如果让你重新开始学习计算机你的学习路线会怎么样呢？](https://www.bilibili.com/video/BV1SPQ2Y7Ev8)
+
+
+#### 114. [双非二本CS专业，3年QT开发经验，想转Windows驱动开发，行情如何？推荐转吗？](https://www.bilibili.com/video/BV1xoQUYSEHN)
+
+
+#### 115. [24届双非一本GIS专业，入职小公司C++开发工作无前途，公司项目烂且流动性大，该离职学习还是硬撑？](https://www.bilibili.com/video/BV1q1QRYHEgs)
+
+
+#### 116. [二本软件工程，3年大数据转嵌入式C开发，裸辞后遭遇初创公司实习合同，未来如何规划职业方向？](https://www.bilibili.com/video/BV1SJQRYuENq)
+
+
+#### 117. [23届双非一本，C++音视频方向，收到智能机器人岗位意向，这个方向未来发展如何？](https://www.bilibili.com/video/BV1SyXrYBEiR)
+
+
+#### 118. [工作一年想跳槽？涨薪多少才算不亏？](https://www.bilibili.com/video/BV1Q6XrY3ESp)
+
+
+#### 119. [末流985通信本硕，C++岗位少，嵌入式硬件不喜欢，是否该放弃实习直接备战Java秋招？](https://www.bilibili.com/video/BV1AfXrYFELo)
+
+
+#### 120. [C9本+美硕数学专业，AI小厂转OD大模型加速，28岁还拿应届生工资职业发展滞后如何破局？](https://www.bilibili.com/video/BV1Nvo2YREaZ)
+
+
+#### 121. [23届双非本硕计科军工行业工作1年半，想跳槽一线城市高薪岗，如何规划职业路径？](https://www.bilibili.com/video/BV1uto2Y8Ecv)
+
+
+#### 122. [双非本211硕算法自学C++，秋招进小厂做 Go 后端技术栈全陌生，继续转 Go 还是春招换回 C++？](https://www.bilibili.com/video/BV1EKo2YyEmt)
+
+
+#### 123. [985硕 EE 军工 QT转行 AI 框架，如何补充技术深度进入核心技术岗位？需要哪些技术支撑？](https://www.bilibili.com/video/BV1R7oxY1EbE)
+
+
+#### 124. [川大信科毕业生考研两战失利，GAP 两年还能进互联网中厂吗？该选择直接投递中厂还是去 OD 过渡？](https://www.bilibili.com/video/BV1Z3oxYSEzw)
+
+
+#### 125. [4年C++医疗器械工作经验想跳槽，没有完整项目经验，社招简历项目如何写？](https://www.bilibili.com/video/BV1VCo4YmE3r)
+
+
+#### 126. [为什么有人年薪50W有人100W？能力鸿沟究竟在哪？](https://www.bilibili.com/video/BV1A9oRYyERt)
+
+
+#### 127. [工作三年薪资未涨，现遇 100 万项目奖项目，是馅饼还是画饼？](https://www.bilibili.com/video/BV1ouZ8YhE9R)
+
+
+#### 128. [双非硕士搞AI，真的找不到好工作吗？](https://www.bilibili.com/video/BV1ZMZ8YwEkM)
+
+
+#### 129. [985人工智能研一自学C++，暑假找实习需要掌握哪些技能？AI和开发哪个就业前景更好？](https://www.bilibili.com/video/BV1zSfPYwEiT)
+
+
+#### 130. [10年Java开发薪资不如应届生？转C/C++可行吗？该如何规划学习路径？](https://www.bilibili.com/video/BV1C6fPYMExG)
+
+
+#### 131. [24 届二本自动化入职嵌入式1年，技术杂而不精，是该转应用层开发还是另寻出路？](https://www.bilibili.com/video/BV1SxfPYmEYg)
+
+
+#### 132. [培训机构内推靠谱吗？如何通过内推机会上岸？](https://www.bilibili.com/video/BV1PBfPY6E1u)
+
+
+#### 133. [双一流本海硕游戏程序员失业，面了两个月几乎一无所获，面对行业要求提升该死磕还是转行？](https://www.bilibili.com/video/BV1UbfPY1EuS)
+
+
+#### 134. [付费的线上就业指导会比网课更有价值吗？](https://www.bilibili.com/video/BV1qEZ1Y6EpY)
+
+
+#### 135. [双非计科三战考研失败，就业开发岗还有机会吗？非技术岗推荐哪些？](https://www.bilibili.com/video/BV1bvZ1YfEs6)
+
+
+#### 136. [医疗设备公司Qt开发两年，公司给转算法岗机会但绑定风险高，如何选择？](https://www.bilibili.com/video/BV18VdpYZEhM)
+
+
+#### 137. [211 本 985 硕，3 年中厂 qt 开发想转型，降薪 20% 值不值？](https://www.bilibili.com/video/BV1cVdWYmE8e)
+
+
+#### 138. [刚入职做前后端业务开发，如何快速理解QtC++业务代码？现在深入学C++还有必要吗？](https://www.bilibili.com/video/BV1addVYMELp)
+
+
+#### 139. [软件行业中不同学历的就业机会差异如何？ ](https://www.bilibili.com/video/BV1tAd5YYEqy)
+
+
+#### 140. [汽车电子测试岗想转开发，EDA测开offer和内部转岗怎么选？哪个更有利职业发展？](https://www.bilibili.com/video/BV11tdVYtEmG)
+
+
+#### 141. [转码入行做MCU，GAP半年没工作，程序员生涯结束了吗？](https://www.bilibili.com/video/BV13ydDY3E8b)
+
+
+#### 142. [华五硕外企医疗软件工程师，工作偏部署运维技术含量低怕被裁，如何规划提升职业竞争力？](https://www.bilibili.com/video/BV1pJdDYbEir)
+
+
+#### 143. [工业软件C++开发前景如何？入行门槛高吗？](https://www.bilibili.com/video/BV1r4oLYfE8F)
+
+
+#### 144. [双非软工毕业被裁+考研失败不想干开发，哪些岗位门槛低适合转行？](https://www.bilibili.com/video/BV1yToEYgEjb)
+
+
+#### 145. [本科 985 自动化毕业，投身非标工控自动化，靠Linux C++能转哪些不错的发展的方向？](https://www.bilibili.com/video/BV1Y65YzNE66)
+
+
+#### 146. [有些嵌入式工程师工作10年仍是普通开发者，为什么有人成为软件架构师？](https://www.bilibili.com/video/BV1Bj5izEEN5)
+
+
+#### 147. [36岁北邮通信工程毕业，6年嵌入式+6年国企打杂面临裁员，三线城市 Java 岗稀缺如何再就业？](https://www.bilibili.com/video/BV1Ym5xz7EHj)
+
+
+#### 148. [理解进程线程理论却不会实操，该怎么练习提升？](https://www.bilibili.com/video/BV1kp5yzjEVX)
+
+
+#### 149. [24届三本毕业待业求职迷茫，会C++、Linux、Qt，有哪些就业方向推荐？](https://www.bilibili.com/video/BV1DCLtzDEX4)
+
+
+#### 150. [Java开发7年面临35岁危机，Java卷不动了还有哪些路能走？](https://www.bilibili.com/video/BV1ZeL8zvEsL)
+
+
+#### 151. [24届本科转码Offer二选一：华为OD 17K vs 老家中厂 12K，哪个更利于长期发展？](https://www.bilibili.com/video/BV1h4LbzHEFr)
+
+
+#### 152. [7年Java程序员面临裁员和35岁危机，普通程序员如何延长职业生涯？](https://www.bilibili.com/video/BV1D1GCz9EUg)
+
+
+#### 153. [40岁程序员如何避免被淘汰？学新技术真能避开职场淘汰？](https://www.bilibili.com/video/BV1gKGCzHEs4)
+
+
+#### 154. [双非机械本在华为 OD 搞安卓，二战调剂非全计算机值得读吗？安卓岗前景如何？](https://www.bilibili.com/video/BV1uuGCzJEk6)
+
+
+#### 155. [Java 课程学了个寂寞？如何学以致用？如何筛选关键知识点避开“无用功”学习？](https://www.bilibili.com/video/BV11wG2zDEeo)
+
+
+#### 156. [C++ 35岁危机会比其它语言会小一点吗？](https://www.bilibili.com/video/BV1MWGbzCE1h)
+
+
+#### 157. [物联网方案商公司值得长期发展吗？](https://www.bilibili.com/video/BV1oMGbzXEjx)
+
+
+#### 158. [民办本科毕业2年非专业工作，专业知识全忘光，现在重新入行有哪些岗位适合短期转行？](https://www.bilibili.com/video/BV1AN5VztEcH)
+
+
+#### 159. [985本硕NLP转开发岗，在科研机构成长有限，怎么规划跳槽方向？](https://www.bilibili.com/video/BV1qc5jzoEcY)
+
+
+#### 160. [大龄硕士就业的是很大的劣势吗？](https://www.bilibili.com/video/BV1Rs5LzHEQy)
+
+
+#### 161. [九硕非科班转码C++Offer：华为13A转Java vs 运营商C++云平台哪个更香？](https://www.bilibili.com/video/BV1ijVDzDEU3)
+
+
+#### 162. [二本学历 +Python Web开发2年经验，现在找工作如何选择下家？](https://www.bilibili.com/video/BV1zwEFzoEAR)
+
+
+#### 163. [工作两年后读非全硕士，利用校招身份和坚持社招积累，哪种方式转型成功率更高？](https://www.bilibili.com/video/BV1XnEizJEFt)
+
+
+#### 164. [211 大三主攻音视频，学完项目后怎么学更高效？该不该找暑期实习？](https://www.bilibili.com/video/BV1o3EizxEj2)
+
+
+#### 165. [双非机械硕Qt开发两年，想转Linux开发没有实际项目经历简历如何写？](https://www.bilibili.com/video/BV1VhJNzKEp5)
+
+
+#### 166. [211机械硕Offer选择：华为正编技术服务岗VS零跑开发岗，如何选择？](https://www.bilibili.com/video/BV13eJNzPER2)
+
+
+#### 167. [双非科班毕业后做ERP业务岗被辞退，想报班转开发C++和Java哪个更适合？](https://www.bilibili.com/video/BV1yKJNzpEoa)
+
+
+#### 168. [双非本科上岸二本智能制造，有C++ROS 经验怎么选研究方向？](https://www.bilibili.com/video/BV1TWERzcEZX)
+
+
+#### 169. [民办二本电子信息大一，OpenCV、ROS2、PID 学得太杂，该专攻哪个方向？深耕技术还是考研？](https://www.bilibili.com/video/BV16EJtzkE3v)
+
+
+#### 170. [复交CS本硕实习在央企搞大模型，半路出家搞AI论文难发，校招该all in算法岗还是开发岗？](https://www.bilibili.com/video/BV1HFJhzpE8y)
+
+
+#### 171. [四非本科工作1年，每天增删改查技术无成长，如何破局转型？该怎么学？](https://www.bilibili.com/video/BV1ogJhz1ELr)
+
+
+#### 172. [程序员如何快速证明自己的能力？升职加薪难吗？](https://www.bilibili.com/video/BV12sJBzEEAM)
+
+
+#### 173. [双非本硕在芯片公司边缘岗，工作两年没成长，如何突破职业困境？](https://www.bilibili.com/video/BV1YoJ6zNEPE)
+
+
+#### 174. [双一流非科班毕业两年零基础转码，先考研拿学历还是靠技术快速入行？](https://www.bilibili.com/video/BV1K8J6z9ENR)
+
+
+#### 175. [29岁专升本做设备调试，转行做嵌入式MCU是否值得长期投入？还有哪些方向选择？](https://www.bilibili.com/video/BV1vjJHzSEay)
+
+
+#### 176. [普通海外硕从大厂底软跳槽两个Offer：无人叉车算法 vs 人形机器人嵌入式，如何选择？](https://www.bilibili.com/video/BV1xCjEz9Emf)
+
+
+#### 177. [如何围绕项目为导向去学习呢？](https://www.bilibili.com/video/BV1ATjtzgEug)
+
+
+#### 178. [嵌软和DSP、STM32或者硬件有啥区别？](https://www.bilibili.com/video/BV1sJj4zGEoN)
+
+
+#### 179. [如何判断自己是否真的对编程感兴趣？](https://www.bilibili.com/video/BV1Wpj4zgEhS)
+
+
+#### 180. [985 计算机硕辞职考公失败，目标继续考公但需过渡工作，哪些互联网岗位方便备考？](https://www.bilibili.com/video/BV14jj4z5EJm)
+
+
+#### 181. [双非硕工作几年能跳大厂呢？怎么吸引猎头？](https://www.bilibili.com/video/BV1fr75zaEwq)
+
+
+#### 182. [211非科班C++春招进小厂，现在拿到初创公司Offer，方向窄但钱多，要不要跳槽？](https://www.bilibili.com/video/BV1Ks75z5EAu)
+
+
+#### 183. [C++数据库研发3年，工作内容修 bug 技术薄弱，如何破局实现技术跃迁？](https://www.bilibili.com/video/BV1rv75zqESJ)
+
+
+#### 184. [32岁运维工程师中年危机将至，技术转管理是否是破局的唯一出路？](https://www.bilibili.com/video/BV1Ah75zgEgL)
+
+
+#### 185. [程序员35岁之后还能通过学习技术提高薪水吗？](https://www.bilibili.com/video/BV1WN7ezfEnS)
+
+
+#### 186. [27岁211非科班本科转行嵌入式，想进大厂无相关项目该怎么破局？](https://www.bilibili.com/video/BV1jy7qzfEQY)
+
+
+#### 187. [当 AI 成为 “初级程序员”，应届生入行是否会更难？](https://www.bilibili.com/video/BV1keTtzEEV3)
+
+
+#### 188. [为何20年前的《Unix高级编程》仍是经典？新时代开发者该如何学习？](https://www.bilibili.com/video/BV193TtzPE7t)
+
+
+#### 189. [211本985硕军工C++开发6年，技术停滞降薪50%，如何规划新方向？](https://www.bilibili.com/video/BV1szTCzcEP2)
+
+
+#### 190. [末流985半导体硕士，0代码基础转码，哪些路线更靠谱？](https://www.bilibili.com/video/BV1kCTCztEPT)
+
+
+#### 191. [985材料化学跨考失败，C++无实习零项目，如何用3个月冲刺互联网春招？](https://www.bilibili.com/video/BV1chT2zPEqz)
+
+
+#### 192. [本科就业点云算法，转C++ 几何工程师还是读研做3D视觉更有前景？](https://www.bilibili.com/video/BV191T2zXEcg)
+
+
+#### 193. [一个月时间想对 Linux 有个了解该怎么学？](https://www.bilibili.com/video/BV19TM3zdEdJ)
+
+
+#### 194. [普本学历 3 年 Qt 经验能转后台开发吗？还能转向哪些方向？](https://www.bilibili.com/video/BV1sxM3zCEQ1)
+
+
+#### 195. [想深入 Qt 该看什么书？](https://www.bilibili.com/video/BV1cuMJztEGc)
+
+
+#### 196. [杭电本科2年C++后端，裸辞后才发现C++赛道太窄？如何破局跳槽or转行？](https://www.bilibili.com/video/BV1qcMpz8Eq4)
+
+
+#### 197. [Linux 内核裁剪这个方向怎么样？](https://www.bilibili.com/video/BV1SxMBztENw)
+
+
+#### 198. [双非本985硕，5年小众领域工业软件开发，如何规划未来技术方向？](https://www.bilibili.com/video/BV1AoMqzEEvC)
+
+
+#### 199. [嵌入式Linux和Linux应用开发有什么区别吗？](https://www.bilibili.com/video/BV1QaMyzmEYf)
+
+
+#### 200. [制造业大厂在就业市场认可度真比不上互联网大厂？](https://www.bilibili.com/video/BV19aM2zxECi)
+
+
+#### 201. [211机械硕转码医疗行业C#开发3年，感觉越走越难，行业经验与技术转型如何平衡？](https://www.bilibili.com/video/BV1xUM2z1EWj)
+
+
+#### 202. [云计算行业前景如何？是不是用 Java 会多一点呢？](https://www.bilibili.com/video/BV1MkM2zSE11)
+
+
+#### 203. [二本毕业嵌入式岗辞职考研失败，调剂到一本土木，是读研转码还是继续找C++工作？](https://www.bilibili.com/video/BV1KGN8zsE6r)
+
+
+#### 204. [民办本科物联网毕业：嵌入式行业太卷，报硬件培训班有用吗？](https://www.bilibili.com/video/BV1XaNqz9E9D)
+
+
+#### 205. [C++量化、高性能计算入行门槛有多高？](https://www.bilibili.com/video/BV1kENEzDE4q)
+
+
+#### 206. [哈工大计算机本科毕业进车企管理岗：想重返互联网，该学什么技能破局？](https://www.bilibili.com/video/BV1RiNEzuEzj)
+
+
+#### 207. [双非计科自动驾驶1年C++开发遇瓶颈，技术转型如何选择更有潜力的方向？](https://www.bilibili.com/video/BV1voKAzYEcF)
+
+
+#### 208. [211材料硕入职华为OD，被强制从硬件转软开，完全不会C/C++该坚持还是跑路？](https://www.bilibili.com/video/BV1BgKNzkEYz)
+
+
+#### 209. [二本+海外信息硕1年半时间，选择什么技术路线更适合进入大厂？](https://www.bilibili.com/video/BV1rKKNzLEz6)
+
+
+#### 210. [大三电商专业转数开方向，数开对Java的技能要求高吗？秋招该如何规划？](https://www.bilibili.com/video/BV1CmK8zWExW)
+
+
+#### 211. [职业起点太低如何规划才能走向高配？](https://www.bilibili.com/video/BV1WgKaztEvp)
+
+
+#### 212. [三年测试岗现在想培训转C++，是否应该先考研提升学历？](https://www.bilibili.com/video/BV1jPKHzQELC)
+
+
+#### 213. [存储开发与网络开发哪个技术方向更吃香？](https://www.bilibili.com/video/BV1tKKozTET9)
+
+
+#### 214. [211本7年裸机开发，想进大疆中高级嵌入式岗需要补哪些关键能力？](https://www.bilibili.com/video/BV1s5KfzzEhS)
+
+
+#### 215. [211电子信息毕业做嵌入式Linux开发，感觉被业务绑架如何转向深度技术岗？](https://www.bilibili.com/video/BV15VK2zQEtr)
+
+
+#### 216. [本硕211非科班秋招签约EDA公司做C++开发，如何避免技术方向过窄？](https://www.bilibili.com/video/BV1EuKUzAENi)
+
+
+#### 217. [985土木硕士转行做MCU开发，MCU开发岗位的薪资和技术的天花板是否值得长期投入？](https://www.bilibili.com/video/BV1bG3tzMEom)
+
+
+#### 218. [211本+985非全硕，C++QT方向2年在想换方向，如何选择新方向？](https://www.bilibili.com/video/BV1XY3JzQEVw)
+
+
+#### 219. [安卓相机驱动有前景吗？如何避免职业路径越走越窄？](https://www.bilibili.com/video/BV1ri3RziEyY)
+
+
+#### 220. [领导不认可+疯狂加班！该摆烂拿赔偿还是硬撑到年终？](https://www.bilibili.com/video/BV1ya3RzuEEa)
+
+
+#### 221. [Java 开发 5 年还是大头兵，身体累心更累，厌倦内卷却无路可去该怎么办？](https://www.bilibili.com/video/BV1iU3RztEJF)
+
+
+#### 222. [信息安全怎么入门？新手如何规划学习路径？](https://www.bilibili.com/video/BV1933RzXEqT)
+
+
+#### 223. [TOP3 大二不想卷保研去新二读硕，性价比到底有多高？](https://www.bilibili.com/video/BV1EA3RzFERW)
+
+
+#### 224. [UE5游戏客户端和c++分布式后端哪一个方向更好？](https://www.bilibili.com/video/BV1jjGHzNEj7)
+
+
+#### 225. [南邮计算机研 0，本科混日子仅会基础语法，想走C++就业需要补哪些硬技能？](https://www.bilibili.com/video/BV16DGcznEB5)
+
+
+#### 226. [南邮通信硕转码一年国企Java开发想跳槽，社招出路在哪里？华为OD值吗？](https://www.bilibili.com/video/BV1fVGcz1EKR)
+
+
+#### 227. [大多数Java程序员都干不到35岁吗？那C++就可以吗？](https://www.bilibili.com/video/BV1unuMz5E3y)
+
+
+#### 228. [嵌入式开发3年被裁，失业后才发现技能单一求职碰壁，二本学历如何快速找到下家？](https://www.bilibili.com/video/BV1CJu3zrEN1)
+
+
+#### 229. [双一流本科毕业现入职外企运维，如何利用空闲时间学习进中大厂？该选Java还是C++？](https://www.bilibili.com/video/BV1oJM9zmEzp)
+
+
+#### 230. [AI 辅助写代码是否是一个好习惯？](https://www.bilibili.com/video/BV1SrgPzTEUc)
+
+
+#### 231. [广东双非软工大一学了C++和STM32，该走嵌入式还是深耕C++?](https://www.bilibili.com/video/BV1eYgPzkEp3)
+
+
+#### 232. [如果判断自己所学技术是否有用能够对找工作有实际帮助？](https://www.bilibili.com/video/BV15LgTzQEWe)
+
+
+#### 233. [双非本211硕转码，军工企业软开2年技术停滞，想换方向该往哪努力？](https://www.bilibili.com/video/BV19EgTzSESd)
+
+
+#### 234. [双非科班 25 届，春招C++Qt 跨平台开发想换岗，嵌入式、音视频、上位机三方向选哪个潜力更大？](https://www.bilibili.com/video/BV1UPgBz8EJ5)
+
+
+#### 235. [双一流本科+985非全，国企前端想跳车！社招转存储网络到底有多难？](https://www.bilibili.com/video/BV1fqgWzrEiu)
+
+
+#### 236. [初中毕业闯社会5年，自学STM32入行软硬开发，想开外包公司哪些避坑或发展建议？](https://www.bilibili.com/video/BV176gWzzET5)
+
+
+#### 237. [211软工本科靠背八股进 Java 岗，基础还行但工程能力弱，工作之余如何快速提升实战能力？](https://www.bilibili.com/video/BV19GbCzNERz)
+
+
+#### 238. [收藏永不停止学习从未开始，如何有效的学习找工作？](https://www.bilibili.com/video/BV1bpbCztExJ)
+
+
+#### 239. [30岁211非计科测试岗想脱产学习，如何选35岁后好就业的方向？](https://www.bilibili.com/video/BV1x1bQzyEr9)
+
+
+#### 240. [24届双非硕入职运营商算法岗，发现工作全是外包对接！是躺平还是跳私企转开发？](https://www.bilibili.com/video/BV1xmbQzVEFS)
+
+
+#### 241. [211通信硕校招进军工公司，半年后端外派外包被裁找不到工作，还有出路吗？](https://www.bilibili.com/video/BV1uBbQzEExt)
+
+
+#### 242. [研发岗和开发岗是一个意思吗？](https://www.bilibili.com/video/BV1CgbQzBEVW)
+
+
+#### 243. [双非一本毕业校招进外包，辞职考研二战失败技术遗忘，前领导劝转行，非全211+Java是出路吗？](https://www.bilibili.com/video/BV1NKbQzGE9z)
+
+
+#### 244. [一本计算机2年Qt初创公司技术不成体系，跳槽 Offer 如何选择？留原公司等入股值吗？](https://www.bilibili.com/video/BV1RR8bzAEQ5)
+
+
+#### 245. [2年CV算法经验咋找女朋友？](https://www.bilibili.com/video/BV19n89zYEkR)
+
+
+#### 246. [双非本+985硕菊厂3年通信开发，想转芯片验证如何利用业余时间提升竞争力？](https://www.bilibili.com/video/BV1me89z9EEf)
+
+
+#### 247. [C++初学者怎么学？这些误区要避开](https://www.bilibili.com/video/BV12i89zpEtt)
+
+
+#### 248. [24 届双非本BMC工程师加班近180 小时！该gap考研还是转Linux内核？](https://www.bilibili.com/video/BV1zd8dz7EEF)
+
+
+#### 249. [14年交换机开发，选SONiC转型云计算，还是坚守网安？](https://www.bilibili.com/video/BV1bshWzVEmf)
+
+
+#### 250. [双一流计算机硕从Java转C++，离职后2年竞业协议+经历断层，未来5年技术方向该咋规划？](https://www.bilibili.com/video/BV1tBh8zoE3j)
+
+
+#### 251. [双非本科3年C++经验仍像菜鸟？被裁后焦虑想转编译器工程师，但又犹豫考公，该选哪条路？](https://www.bilibili.com/video/BV11rh8zREdY)
+
+
+#### 252. [双一流数据科学物联网公司测试一年，想换工作转Qt开发该怎么系统学习？](https://www.bilibili.com/video/BV1gVtgzaE3Z)
+
+
+#### 253. [C++ 继承主要是为了提供统一接口，复用作用要尽量避免？这个说法对吗？](https://www.bilibili.com/video/BV1bjtgz8E3G)
+
+
+#### 254. [北交准大一想学 C++本科进腾讯、华为，该怎么准备才能实现？](https://www.bilibili.com/video/BV14JtgztE1A)
+
+
+#### 255. [考研二战失败+工作被裁，调剂二本学校不想去，该赌考研三战还是继续找工作？](https://www.bilibili.com/video/BV1FqtGz9EWP)
+
+
+#### 256. [双二硕控制工程，EDA 公司做软件研发，前景差行业太窄想脱离，有哪些合适的方向推荐？](https://www.bilibili.com/video/BV1putFzsEJK)
+
+
+#### 257. [OS方向实习有哪些厂可以投？华为OS的实习怎么样呢？](https://www.bilibili.com/video/BV1RbtwzEEuD)
+
+
+#### 258. [如何在Linux上做一款成型的产品具体该怎么做呢？](https://www.bilibili.com/video/BV1rZtiz4EE4)
+
+
+#### 259. [有人双非干大厂核心岗，有人 92 做安卓、Qt，差距真的是技术吗？](https://www.bilibili.com/video/BV1iMtqzSEYW)
+
+
+#### 260. [音视频岗位和 AI 应用岗位哪个更好？技术栈其实没那么重要？](https://www.bilibili.com/video/BV1sitzzuE3G)
