@@ -46,6 +46,7 @@
 * [CV](#9)
 * [秋招](#10)
 * [26届](#26届)
+* [27届](#27届)
 * [AI](#11)
 * [校招](#12)
 * [华为od](#13)
@@ -878,6 +879,39 @@
 
 ##### [14.7.1 地方银行的的实习对秋招投互联网大厂有用吗？](https://www.bilibili.com/video/BV1b2421Z7dA/?spm_id_from=333.1387.search.video_card.click)
 
+---
+
+### 26届
+
+##### 1. [26届211本科，大三才开始学能否追赶上进度？考研与工作三年哪个对未来发展更有利？](https://www.bilibili.com/video/BV1M16MYyEsv)
+
+##### 2. [26届毕业生，如何在C++开发或HPC方向找到合适的实习岗位？](https://www.bilibili.com/video/BV1qrCYYKETP)
+
+##### 3. [211本硕电子信息26届应届，FPGA算法实习难找，现在转嵌入式软开来得及吗？](https://www.bilibili.com/video/BV1uLPMe6ES5)
+
+##### 4. [双C9科班26届实习Offe：大厂搜广推、AI岗、高薪量化，如何规划职业起点？](https://www.bilibili.com/video/BV19DJBzhEUm)
+
+##### 5. [南邮26届C++后端选手暑期实习颗粒无收，二面项目场景题屡挂怎么办？](https://www.bilibili.com/video/BV1hRj7z4EEw)
+
+##### 6. [26届哈工大软工硕，视频编解码方向简历关被大厂秒挂？该坚持还是换方向？](https://www.bilibili.com/video/BV1TPM2z1EMZ)
+
+##### 7. [26届中上985控制专业现在从C++转Java，还有机会进互联网公司吗？](https://www.bilibili.com/video/BV1BdqPYrET1)
+
+##### 8. [机械非科班末9本C9硕26届，实习打杂想转岗，Java、CPP、嵌入式该咋选？](https://www.bilibili.com/video/BV1v26UYTEYb)
+
+##### 9. [985硕非科班26届秋招转码，选择哪个方向更适合秋招冲大厂？](https://www.bilibili.com/video/BV1tor8YrEhy)
+
+##### 10. [26届C9电子硕有转码想法，转Java或Go是否可行？秋招来得及吗？](https://www.bilibili.com/video/BV1PfQAYQENq)
+
+##### 11. [26届双非本末九土木硕，AI辅助面试先上车后补票能行吗？](https://www.bilibili.com/video/BV14uEAzUEBS)
+
+---
+
+### 27届
+
+##### 1. [27届实习什么时候投递比较好一般实习多久？](https://www.bilibili.com/video/BV1HdgPzoE6K)
+
+##### 2. [南邮本东南硕27届集电转码，目标非一线城市，有哪些高性价比岗位可选？](https://www.bilibili.com/video/BV1H8j4zvEcT)
 
 ---
 
