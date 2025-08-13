@@ -51,6 +51,7 @@
 * [北邮](#15)
 * [西电](#16)
 * [哈工大](#17)
+* [QS200内](#qs200内)
 * [双非](#18)
 * [芯片](#19)
 * [golang](#20)
@@ -1112,6 +1113,28 @@
 ##### [17.1.8 哈工大计算机研一，就业方向怎么定？选Java还是C++后端，嵌入式 AI 是好选择吗？](https://www.bilibili.com/video/BV1LCEEzrEVj)
 
 ##### [17.1.9 哈工大计算机本科毕业进车企管理岗：想重返互联网，该学什么技能破局？](https://www.bilibili.com/video/BV1RiNEzuEzj)
+
+---
+
+### QS200内
+
+##### 1. [QS200海本，想在国外直接就业，java后端还是数据科学？](https://www.bilibili.com/video/BV11rHDeYESc)
+
+##### 2. [双非+QS100硕士：回国求职选春招还是秋招？技术与履历掉队如何应对？](https://www.bilibili.com/video/BV1QSBRYkEKp)
+
+##### 3. [双非管理本转读QS100计算机水硕，不做码农如何实现自我价值？](https://www.bilibili.com/video/BV1YdqaYLEVr)
+
+##### 4. [211 本 QS50 硕 ，鉴于本科校招时遭遇挫折，想换方向选啥合适？](https://www.bilibili.com/video/BV15K6UYvEmH)
+
+##### 5. [30岁文科转QS100数据科学硕，想转行技术岗还能走哪条路？](https://www.bilibili.com/video/BV14PMGzmEip)
+
+##### 6. [双非二本软工+QS前100英国一年制硕，选 Java回国就业优势大吗？想冲大厂开发岗应该选哪条技术栈？](https://www.bilibili.com/video/BV1SM3xzAEUn)
+
+##### 7. [QS100美硕亚马逊实习+银行经历 Java 实习，想转底层哪个方向最稳？](https://www.bilibili.com/video/BV1CPM9zZEHn)
+
+##### 8. [本科一本土木海硕QS150，能走java大数据吗？](https://www.bilibili.com/video/BV1EJeJehEco)
+
+##### 9. [25届应届QS前100博士，塞力斯汽车核心算法岗与华为数据存储预研岗如何选择？](https://www.bilibili.com/video/BV1piAKeWEog)
 
 ---
 
