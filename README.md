@@ -48,6 +48,7 @@
 * [校招](#12)
 * [华为od](#13)
 * [杭电](#14)
+* [北邮](#15)
 * [西电](#16)
 * [哈工大](#17)
 * [双非](#18)
@@ -1054,132 +1055,24 @@
 
 ---
 
-<h3 id="15">转码</h3> 
+<h3 id="15">北邮</h3> 
 
 
-##### [15.1.1 211地质本科，考研计算机二战失败后做土木，现在想转行程序员从测试岗入门可行吗？](https://www.bilibili.com/video/BV1SJNteaEQp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [15.1.1 北邮通信大四，选择什么编程语言和岗位能最大化找到实习？](https://www.bilibili.com/video/BV1xLC6YTEBh)
 
-##### [15.1.2 国企文职工作想转码可行吗？跨考计算机研究生还是准备华为OD？](https://www.bilibili.com/video/BV1nzNteUEjH/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [15.1.2 北邮+南洋理工硕自动驾驶算法岗因代码能力被拒，如何用6个月重构代码能力？](https://www.bilibili.com/video/BV1h2LEzZEEa)
 
 ##### [15.1.3 本硕211化工专业自学编程，大环境下转码有哪些适合的方向？](https://www.bilibili.com/video/BV1FpP1e8EC9/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [15.1.4 末流211电子信息考研失利，厌硬件转软件做算法工程师或测试可行吗？](https://www.bilibili.com/video/BV123wYeaEu5/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [15.1.4 北邮电子直博预备生大一，发现同学都在卷互联网，硬件方向是不是已经没落？](https://www.bilibili.com/video/BV1QXTxztEKc)
 
-##### [15.1.5 哈工大C9自动化大四，准备读研转码，如何确定学习重点并明确未来的转码方向？](https://www.bilibili.com/video/BV1uYwLeWEWp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [15.1.5 北邮通信研一C++路线如何走？是先学习相关知识，还是先做产品边做边学？](https://www.bilibili.com/video/BV13mr8YmEsH)
 
-##### [15.1.6 网络运维工程师具体做什么？想转行到前景好的岗位，应该学习哪些课程？](https://www.bilibili.com/video/BV1a4wPeZEzS/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [15.1.6 北邮非科班AI算法硕士，从芯片售前转驱动开发，岗位太底层该继续还是转AI Infra？](https://www.bilibili.com/video/BV1VNP7eMEiv)
 
-##### [15.1.7 大三电子信息专业，感觉学不到东西，如何明确目标并规划未来的考研或就业方向？](https://www.bilibili.com/video/BV1hGcHeMEZw/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [15.1.7 北邮本硕通信专业研一，就业是走搜广推好还是随大流转Java后端？](https://www.bilibili.com/video/BV14QKmzyEaK)
 
-##### [15.1.8 复旦医学事业编想转码，提高经济收入，快劝劝孩子吧~](https://www.bilibili.com/video/BV1VwrzYgEGK/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.1.9 国企BIM程序员，工作三年薪资不高，想跳槽但是担心找不到工作，能转行到哪些更高薪的岗位？](https://www.bilibili.com/video/BV1R4rYYZEmE/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.0 211本，985硕天坑专业与计算机不沾边如何转码？转码是否真有未来？](https://www.bilibili.com/video/BV1aUSBYtEHk/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.1 29岁博士毕业做程序员还来得及吗？](https://www.bilibili.com/video/BV1nKwVePECV/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.2 TOP3本非CS工科决心转码，因考研来不及想先就业，学习和就业咋规划？](https://www.bilibili.com/video/BV1c6cqeNEz6/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.3 为什么很多超龄的程序员宁愿失业也不愿意转面管理岗呢？](https://www.bilibili.com/video/BV1BNcAecEY6/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.4 西电通信工程毕业，在国企画原理图调电路板，想转编程不知道怎么学？](https://www.bilibili.com/video/BV16QcneQE8L/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.5 9本计科六级成绩530，有国创等经历，想考华五研又缺信心，纠结考研还是就业？](https://www.bilibili.com/video/BV1y4cHeZELg/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.6 计算机本科毕业后做的是非技术岗，现在考研毕业后30岁能通过编程找到工作吗？](https://www.bilibili.com/video/BV1ABrLYtE1W/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.7 天坑专业如何成功转码上岸大厂？拿下11个offer的25届转码师兄案例分享](https://www.bilibili.com/video/BV1Gq66YGEyU/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.8 29岁考研转行，做大厂非技术岗可行吗？](https://www.bilibili.com/video/BV1tRzSYoEnG/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.2.9 23届大数据毕业生，教育培训做了一年，如何规划转行成为开发者？](https://www.bilibili.com/video/BV1S4UKYbEVX/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.0 20年毕业211土木想转行测试开发，这个年纪适合吗？华为OD是不是最好选择？](https://www.bilibili.com/video/BV1brrWYtESy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.1 末 9 本清华硕，导师方向为大语言模型较偏，未来发展咋规划 ？](https://www.bilibili.com/video/BV1VM6UYPEUT/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.2 211 本 QS50 硕 ，鉴于本科校招时遭遇挫折，想换方向选啥合适？](https://www.bilibili.com/video/BV15K6UYvEmH/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.3 985物理本科生拿到墨大MCS offer，能否转行算法岗？如何规划技术栈?](https://www.bilibili.com/video/BV1zFC5YHEdB/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.4 28岁中9本硕研0如何选择技术方向，实现稳定的职业发展？](https://www.bilibili.com/video/BV1CmC3YQE2q/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.5 211非全电子信息研究生如何找到职业转码的最佳方向！](https://www.bilibili.com/video/BV16Mk2YGEPp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.6 211机械大二想转电子相关，是应该回头补计算机基础还是边学边练？](https://www.bilibili.com/video/BV1SSk1YsEpa/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.7 中9机器人大三想做计算机视觉方面，如何弥补自动化专业编程短板？](https://www.bilibili.com/video/BV1K5CbYuE8h/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.8 2023届毕业生错过考研，如何利用现有技能快速找到合适的工作？](https://www.bilibili.com/video/BV18TC6YkEKB/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.3.9 电子信息大三想走软件开发，但怕干不过计算机专业的同学！有什么建议吗？](https://www.bilibili.com/video/BV1Xkk3YwEjT/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.0 二本院校在神州数码实习做技术支持，纠结是否继续做技术支持还是转开发，如何选择职业方向？](https://www.bilibili.com/video/BV1zCBKYHEmA/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.1 985计算机大一新生焦虑：互联网大厂裁员、35岁危机，我该继续走计算机路吗？](https://www.bilibili.com/video/BV1fxBEYHEXs/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.2 工科985计划读一年水硕，不想做硬件工作，哪个方面学习呢？](https://www.bilibili.com/video/BV1y7CbYKE5q/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.3 北邮通信大四，选择什么编程语言和岗位能最大化找到实习？](https://www.bilibili.com/video/BV1xLC6YTEBh/?spm_id_from=333.1387.upload.video_card.click)
-
-##### [15.4.4 一年后端开发转Golang求职被经验门槛卡住，如何突破？](https://www.bilibili.com/video/BV1XdynYwEZp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.5 双非本材料硕：在导师不放实习的情况下，研一转码应该如何准备？](https://www.bilibili.com/video/BV1wEyHYjEMM/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.6 方向迷茫：选择人工智能还是计算机体系结构，放养型导师还是牛导哪个更具发展潜力？](https://www.bilibili.com/video/BV1q7CRYAESG/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.7 211本985硕研一：专业无对口岗位，无法实习转码的最佳选择是什么？](https://www.bilibili.com/video/BV1jw1wYnEeh/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.8 双非本985硕电子信息专业考虑转码，何规划有效的转码学习路线？](https://www.bilibili.com/video/BV19sCRY4E34/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.4.9 中九本上海TOP2直博想转码进大厂，从就业的角度哪个方向更合适](https://www.bilibili.com/video/BV1cLCmYnERP/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.0 211本中985硕天坑专业转码如何规划？学习路线全解析](https://www.bilibili.com/video/BV1hNUTYeE1h/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.1 30岁小语种转行IT云原生靠谱吗？和应届生比有竞争力吗？](https://www.bilibili.com/video/BV1yYm8YUEJw/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.2 杭电研一：时间不够是该全心投入导师给的项目，还是留时间自学开发？如何规划未来求职方向？](https://www.bilibili.com/video/BV1nYmUYaE46/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.3 RAG大模型研究方向冷门，要不要自学转开发？](https://www.bilibili.com/video/BV1rHD6YmEPL/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.4 微电网控制方向博士，未来想进入硬件行业，如何规划未来职场路径？](https://www.bilibili.com/video/BV18fUeY3Egy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.5 工作半年陷入迷茫，用C语言开发基础库是否需要考虑换工作？](https://www.bilibili.com/video/BV1kiBBYjEvx/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.6 工作半年陷入迷茫，用C语言开发基础库是否需要考虑换工作？](https://www.bilibili.com/video/BV1kiBBYjEvx/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.7 上海理工研二：机械专业转软开有竞争力吗？就业选择软件开发还是机器人方向更有优势？](https://www.bilibili.com/video/BV1dLz5YiELN/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.5.8 成人本科土木工程监理时间充裕但收入不高，转行编程开发靠谱吗？](https://www.bilibili.com/video/BV1kxzKYoE9m/?spm_id_from=333.1387.upload.video_card.click)
-
-##### [15.5.9 211研一机器视觉想转软件开发有哪些潜力方向？该学习哪些技术？](https://www.bilibili.com/video/BV12CB2YCEuP/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.0 211硕机械专业研二，如何选择方向？如何在短期内提升就业竞争力？](https://www.bilibili.com/video/BV1m4qaYNEmW/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.1 三本毕业，入职中厂工作一年多跳槽难提升慢，如何摆脱API工具人的困境？](https://www.bilibili.com/video/BV1v7qVYbExZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.2 复旦研二没论文想走算法方向，如何规划职业路径？](https://www.bilibili.com/video/BV1QCi6YaEZ7/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.3 211研0想转码但不确定读博与就业方向，如何找到合适的学习路径？](https://www.bilibili.com/video/BV1tZi9Y8E44/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.4 双非本科环境科学专业转码，需要985/211研究生吗？](https://www.bilibili.com/video/BV1tusaeWEwX/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.5 研二自学C++想转码，如何规划才能成功？有什么好的开源项目推荐?](https://www.bilibili.com/video/BV1ZNbce8EmR/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.6 网上有很多转码成功的案例，现实转码真的有那么容易吗？](https://www.bilibili.com/video/BV1fUtMeJE2U/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.7 本硕211控制专业，想转码有推荐的方向吗](https://www.bilibili.com/video/BV1Uf4teHEYy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.8 双非本大数据，目前做c++Qt,感觉门槛不高，可以转什么方向？](https://www.bilibili.com/video/BV1Um4HeeE5r/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.6.9 985本中科院某所研一，本硕材料专业，想自学转码进大厂，该走哪个方向合适呢？](https://www.bilibili.com/video/BV1QE4nevExf/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.7.0 211本985硕，机械转码c++有前途吗？](https://www.bilibili.com/video/BV1JV46e6E1E/?spm_id_from=333.1387.upload.video_card.click)
-
-##### [15.7.1 非科班本硕转码，马上研二了，有没有推荐的学习路线？](https://www.bilibili.com/video/BV1yvpEeGEu9/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [15.7.2 双非本985硕，想从Java转c++,推荐走什么方向？](https://www.bilibili.com/video/BV1GaWYeeEg1/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [15.1.8 36岁北邮通信工程毕业，6年嵌入式+6年国企打杂面临裁员，三线城市 Java 岗稀缺如何再就业？](https://www.bilibili.com/video/BV1Ym5xz7EHj)
 
 ---
 
@@ -1198,8 +1091,6 @@
 
 ##### [16.1.6 双非本西电硕，感觉cc++更适合自己的职业规划，希望能推荐下相关的学习路线和教程](https://www.bilibili.com/video/BV1BvpceEEFN/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-
-
 ---
 
 <h3 id="17">哈工大</h3> 
@@ -1212,7 +1103,15 @@
 
 ##### [17.1.4 哈工大动能专业转战Linux C++嵌入式，就业会被卡专业代码吗？简历项目怎样才算合格？](https://www.bilibili.com/video/BV1LH28YPEhJ/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
+##### [17.1.5 哈工大通信研一，MCU开发、嵌入式Linux、互联网后端，哪个更适合拿到高薪offer？](https://www.bilibili.com/video/BV1jio4YpErr)
 
+##### [17.1.6 哈工大本硕走 C++ 后台方向，找不到好的实习，华为实习值得去吗？](https://www.bilibili.com/video/BV14GEAz2EPC)
+
+##### [17.1.7 26届哈工大软工硕，视频编解码方向简历关被大厂秒挂？该坚持还是换方向？](https://www.bilibili.com/video/BV1TPM2z1EMZ)
+
+##### [17.1.8 哈工大计算机研一，就业方向怎么定？选Java还是C++后端，嵌入式 AI 是好选择吗？](https://www.bilibili.com/video/BV1LCEEzrEVj)
+
+##### [17.1.9 哈工大计算机本科毕业进车企管理岗：想重返互联网，该学什么技能破局？](https://www.bilibili.com/video/BV1RiNEzuEzj)
 
 ---
 
