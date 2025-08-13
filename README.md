@@ -1519,7 +1519,7 @@
 
 #### 1. [211本985硕，两段大厂实习，走大厂后端项目怎么准备](https://www.bilibili.com/video/BV186WGeqEef)
 
-#### 2. [211科班女，想去cpp后端大厂，但是最近面试不顺，该怎么准备接下来的校招？]
+#### 2. [211科班女，想去cpp后端大厂，但是最近面试不顺，该怎么准备接下来的校招？](https://www.bilibili.com/video/BV196YkeHEUz)
 
 #### 3. [双非本，211硕，最近大厂面试有些不太顺利，感觉c++岗位少,找不到能求职的岗位，怎么办？](https://www.bilibili.com/video/BV1LaY7eDETj)
 
