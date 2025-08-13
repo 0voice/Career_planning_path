@@ -63,6 +63,7 @@
 * [dpdk](#22)
 * [内核](#23)
 * [Python](#24)
+* [一线城市](#一线城市)
 * [科班出身](#25)
 * [非科班转码](#26)
 * [程序员社招](#27)
@@ -1533,6 +1534,335 @@
 
 ##### [24.2.7 双九本硕，只会python调参，如何构建3W代码的能力？](https://www.bilibili.com/video/BV1UdHKeLE5u/?spm_id_from=333.1387.search.video_card.click)
 
+---
+
+### 大厂
+
+#### 1. [211本985硕，两段大厂实习，走大厂后端项目怎么准备](https://www.bilibili.com/video/BV186WGeqEef)
+
+#### 2. [211科班女，想去cpp后端大厂，但是最近面试不顺，该怎么准备接下来的校招？]
+
+#### 3. [双非本，211硕，最近大厂面试有些不太顺利，感觉c++岗位少,找不到能求职的岗位，怎么办？](https://www.bilibili.com/video/BV1LaY7eDETj)
+
+#### 4. [211本硕使用瑞芯微linux做ai部署，后面选择大厂部署方向还是继续深耕嵌入式？](https://www.bilibili.com/video/BV1ft2PYAE6c)
+
+#### 5. [211联培专硕迷茫无实习、无paper，转C++能逆袭大厂吗？能走CV/NLP吗？](https://www.bilibili.com/video/BV19c2KY8Erw)
+
+#### 6. [211本中科院硕：目标大厂！C++众多方向，不怕卷哪条路才能赚得更多？](https://www.bilibili.com/video/BV18RsfeqE8f)
+
+#### 7. [双非研二，一直在学音视频，有项目有实习，想26年秋招进大厂，有机会吗？](https://www.bilibili.com/video/BV1UE4ze7EaX)
+
+#### 8. [25届校招生，已有两段大厂实习。目前有一家linux内核实习很喜欢，是继续实习还是去秋招？](https://www.bilibili.com/video/BV1no4heJErv)
+
+#### 9. [15k月薪光伏储能大厂offer但要自学DSP和电力电子技术，到底值不值得入手？](https://www.bilibili.com/video/BV13zmMYKEYc)
+
+#### 10. [本2硕9转战linux c/c++冲击一线大厂！从通用技术到大厂求职的全流程解析](https://www.bilibili.com/video/BV12b22YYE2F)
+
+#### 11. [C9大一计算机科班提问：准备本科就业目标大厂，是选Java还是C/C++？该怎么学才能不走弯路？](https://www.bilibili.com/video/BV19gtfeEEiv)
+
+#### 12. [中2末9研0 本科做java 硕士做信息安全 毕业想去外企或是国内大厂的话，该怎么规划呢？](https://www.bilibili.com/video/BV1pmHTe6EUw)
+
+#### 13. [秋招Offer选择：一线大厂测开 vs 二线城市开发，如何规划职业发展？](https://www.bilibili.com/video/BV1uK2mYMEu7)
+
+#### 14. [双非本，想冲击大厂，本科就业有机会吗？还是说要去考研？](https://www.bilibili.com/video/BV1TVH4evE24)
+
+#### 15. [双非本有可能进大厂吗？](https://www.bilibili.com/video/BV1NpWXeGEkg)
+
+#### 16. [外企国内大厂该如何选择优先部门还是方向？](https://www.bilibili.com/video/BV1aPWDe2EMM)
+
+#### 17. [双非本，几次大厂一面都挂了，是哪里出了问题？](https://www.bilibili.com/video/BV1CueJeMEYp)
+
+#### 18. [北本海硕腾讯二面没过，该如何准备才能再战大厂？](https://www.bilibili.com/video/BV1p6YTevE3v)
+
+#### 19. [没有实习经历，还有机会进大厂吗？](https://www.bilibili.com/video/BV1xz421B7Rg)
+
+#### 20. [地方银行的的实习对秋招投互联网大厂有用吗？](https://www.bilibili.com/video/BV1b2421Z7dA)
+
+#### 21. [杭电硕计科研一，想卷java进大厂!这个目标真的靠谱吗？](https://www.bilibili.com/video/BV1yRS3YzEfu)
+
+#### 22. [211本硕电子研二自学C++计划明年上半年找到大厂实习，C++学习怎么规划才最有效？](https://www.bilibili.com/video/BV17USgYREWB)
+
+#### 23. [双非本科末9硕offer选择纠结，中科院和大厂offer该怎么选？转Java找工作和跳槽机会更多？](https://www.bilibili.com/video/BV1D6U5YQEY3)
+
+#### 24. [两款项目：分布式IM+仿腾讯会议项目，秋招能否拿到音视频大厂Offer？](https://www.bilibili.com/video/BV13aBvYWEka)
+
+#### 25. [如何看待大厂基础架构岗位实习两周后“跑路”吐槽再也不碰基架岗位！](https://www.bilibili.com/video/BV1kpzSYUEQT)
+
+#### 26. [华五CS大三，我该选择保研本校、考研北大软微，还是直接就业大厂后端？](https://www.bilibili.com/video/BV1CCqPYSERT)
+
+#### 27. [计算机专业毕业，现在考研北京211名校，毕业29岁还能进大厂？](https://www.bilibili.com/video/BV16BBLY2E8o)
+
+#### 28. [985计算机大一新生焦虑：互联网大厂裁员、35岁危机，我该继续走计算机路吗？](https://www.bilibili.com/video/BV1fxBEYHEXs)
+
+#### 29. [应届生选Offer难题：去大厂积累经验，还是选小厂拿更高薪资？](https://www.bilibili.com/video/BV1gCkuY9EN1)
+
+#### 30. [双非硕今年校招入职某安防厂半年，想跳槽到互联网大厂应该学习哪些知识？](https://www.bilibili.com/video/BV1aEkhYnEt9)
+
+#### 31. [211科班研二走LinuxC/C++开发，目标秋招中大厂岗位，求高效学习路线推荐！](https://www.bilibili.com/video/BV1JGCaYTEiQ)
+
+#### 32. [国内顶级大厂offer怎么选？92计科高校应届生如何打开的正确上岸姿势？](https://www.bilibili.com/video/BV14f62YnEdZ)
+
+#### 33. [双九计算机研三，秋招 Java 方向大厂全挂，准备半年仍无果，春招还坚持 Java 吗？](https://www.bilibili.com/video/BV1X36UYcEMF)
+
+#### 34. [末流211机械本科预计上岸985软工，导师有搜广推、大数据分析、计算机视觉方向，想进大厂该咋选？](https://www.bilibili.com/video/BV1xucmeKEGp)
+
+#### 35. [末流985本科科班考研失利错过秋招，用C++写过游戏脚本，春招有机会进大厂吗？](https://www.bilibili.com/video/BV1kPwPeCEvV)
+
+#### 36. [拿过ACM银牌想进中大厂，转Java还是继续做c++呢？](https://www.bilibili.com/video/BV1SzwheeEC6)
+
+#### 37. [TOP211大三准备保研，选导师是否要和就业方向一致？如何学习才能达到大厂实习要求？](https://www.bilibili.com/video/BV1x6Noe6EDV)
+
+#### 38. [双非一本大二想冲互联网中大厂后端开发，国外的公开课和黑马java能达到大厂门槛吗？竞赛经历是否必备？](https://www.bilibili.com/video/BV1p7K5eJEY4)
+
+#### 39. [双非一本大四已签国内前三 PCB 大厂研发岗，春招若得软件开发岗去不去？](https://www.bilibili.com/video/BV1NDKWeUEFZ)
+
+#### 40. [网络工程大二Java方向在小公司实习前后端，想进大厂该如何努力？有必要学 C++ 吗？](https://www.bilibili.com/video/BV145AaeeErg)
+
+#### 41. [双非大二学害怕担心C++开发上限低，趁早转算法学Python冲击大厂高薪？](https://www.bilibili.com/video/BV1fVPNeVEFG)
+
+#### 42. [双非大一备战算法竞赛，熟悉C/C++，不考研如何规划进中大厂？](https://www.bilibili.com/video/BV1mzPTePE8o)
+
+#### 43. [杭电自动化大二路线规划：做项目、打竞赛与考研，哪个更助于进入大厂？](https://www.bilibili.com/video/BV1Zq9JYoEp6)
+
+#### 44. [重邮本科+211研一Java后端劝退潮下，是转 Go 还是坚守？先小厂练手还是直接冲大厂？](https://www.bilibili.com/video/BV1d69JYREDf)
+
+#### 45. [211研二NLP方向，想进大厂实习选开发还是算法？秋招如何准备？](https://www.bilibili.com/video/BV1YRQRYLEMC)
+
+#### 46. [211计科大四考研失利二战还是就业？海外一年硕能否刷新应届生身份冲击大厂？](https://www.bilibili.com/video/BV1VdX6YGEuZ)
+
+#### 47. [中流211大二C++音视频方向，如何备战大厂秋招？项目要学到什么程度？试用期一般做什么工作？](https://www.bilibili.com/video/BV1NUoXYgE1h)
+
+#### 48. [985本+中科院硕，网安+谣言检测方向，大厂求职该卷算法还是转开发？](https://www.bilibili.com/video/BV162Z8YKEcB)
+
+#### 49. [非985学历真的无缘大厂吗？](https://www.bilibili.com/video/BV1eKdpYYExr)
+
+#### 50. [三战上岸中科大软工！27岁想走搜广推机会大吗？大厂卡本科有多严重？](https://www.bilibili.com/video/BV1iJ5izjEeW)
+
+#### 51. [末九土木跨考南大软院，25 岁上岸两年制专硕，如何冲刺中大厂开发岗？](https://www.bilibili.com/video/BV1UqLHzhEKj)
+
+#### 52. [双非本杭电研一，零基础转C++底层开发，想进大厂哪个方向更容易进？做什么项目？](https://www.bilibili.com/video/BV1xDLUzqEoB)
+
+#### 53. [2025 普通本科科班生，进大厂还有机会吗？还有必要入局卷成 “炮灰” 吗？](https://www.bilibili.com/video/BV1NXLUzKEy3)
+
+#### 54. [雷达算法研二生的纠结：AI 算法和 C++ 开发，大厂敲门砖怎么选？](https://www.bilibili.com/video/BV14HGmzoErt)
+
+#### 55. [双非二本不考研，靠实力能拿到大厂 Offer 吗？学历与技术到底哪个更重要？](https://www.bilibili.com/video/BV1ENGbzdE5A)
+
+#### 56. [考研调剂到杭电，想进大厂，要不要二战重考？](https://www.bilibili.com/video/BV1dH5LzWEJ9)
+
+#### 57. [985硕延毕放弃电网Offer再战大厂值不值？延毕对进大厂影响有多大？](https://www.bilibili.com/video/BV13FE2zyEvh)
+
+#### 58. [985、211是大厂硬性标准吗？有能力也会被学历卡死吗？](https://www.bilibili.com/video/BV1cHE2z8Eyf)
+
+#### 59. [想进大厂驱动开发，初创芯片公司驱动开发实习值得去吗？](https://www.bilibili.com/video/BV1pqE1z8Evp)
+
+#### 60. [TOP985+美硕冲 CPP 方向！中厂实习后8月换大厂实习，对秋招会受影响吗？](https://www.bilibili.com/video/BV1LXE1zJEg6)
+
+#### 61. [末九计算机本+北大机械硕，想进大厂冲算法还是稳开发？两段垂直实习真的必需吗？](https://www.bilibili.com/video/BV1jNERzVEQc)
+
+#### 62. [本硕985研二无实习无项目，暑期2个月突击有机会进大厂开发岗实习吗？](https://www.bilibili.com/video/BV1isJtzBEdh)
+
+#### 63. [中科大软工研0，距离实习还有一年，如何规划学习计划冲击大厂？](https://www.bilibili.com/video/BV1DrJ8zvEhS)
+
+#### 64. [双C9科班26届实习Offe：大厂搜广推、AI岗、高薪量化，如何规划职业起点？](https://www.bilibili.com/video/BV19DJBzhEUm)
+
+#### 65. [双非物联网大二想进大厂，该深耕嵌入式软件还是转 Linux 开发？](https://www.bilibili.com/video/BV139jbzoE7k)
+
+#### 66. [双二计科研一，自学真的能进大厂吗？自学和系统培训差距有多大？](https://www.bilibili.com/video/BV1BDjZzHEH7)
+
+#### 67. [考研上岸电科大研0科班，选择Java还是C++？国企岗卡本科是真的吗？实习必须去大厂？](https://www.bilibili.com/video/BV1pm7pzhEmg)
+
+#### 68. [985 本 + 双非研究所硕高性能计算方向，就业上限在哪？进大厂学历会成阻碍吗？](https://www.bilibili.com/video/BV1sj7hz9EXp)
+
+#### 69. [双九CS硕C++方向，芯片大厂 vs 小厂RDMA实战，哪个更利秋招？](https://www.bilibili.com/video/BV1YYTKz6Emk)
+
+#### 70. [大厂开发留用VS中小厂算法offer，应届生该如何选择？](https://www.bilibili.com/video/BV1XYM2zRErF)
+
+#### 71. [本科能进大厂开发还有必要读研吗？读研走同方向是否浪费时间？](https://www.bilibili.com/video/BV158M2zZEkS)
+
+#### 72. [985本科计算机类想进中大厂，选哪条技术路线更吃香？](https://www.bilibili.com/video/BV1wVM2zzEZR)
+
+#### 73. [26届哈工大软工硕，视频编解码方向简历关被大厂秒挂？该坚持还是换方向？](https://www.bilibili.com/video/BV1TPM2z1EMZ)
+
+#### 74. [实习经历很强但项目像Demo？大厂实习转正vs秋招广撒网如何选择才能利益最大化？](https://www.bilibili.com/video/BV1xmK3zrEYp)
+
+#### 75. [本科四非北交研0做DPDK高性能网络开发，学历是否限制进大厂可能？薪资待遇与传统开发岗位差距大吗？](https://www.bilibili.com/video/BV1fZKnzREqm)
+
+#### 76. [二本大三科班拿到中厂实习转正机会，该选择稳定就业还是考研冲大厂？](https://www.bilibili.com/video/BV1bAKozuEJ4)
+
+#### 77. [双非大一进不了大厂还有必要继续刷算法题吗？算法对开发岗重要吗？](https://www.bilibili.com/video/BV1NRKmzCEfe)
+
+#### 78. [中上211本在职上岸人大计算机，4年三段工作经历带一年半gap，读研后求职会被歧视吗？还能进大厂吗？](https://www.bilibili.com/video/BV1AHgkzvE2W)
+
+#### 79. [两电一邮本浙大硕计科，如何选择技术栈？需要做哪些准备才能进大厂？](https://www.bilibili.com/video/BV1M8grzgEq8)
+
+#### 80. [双非二本软工+QS前100英国一年制硕，选 Java回国就业优势大吗？想冲大厂开发岗应该选哪条技术栈？](https://www.bilibili.com/video/BV1SM3xzAEUn)
+
+#### 81. [双非大四入职某大厂C++ 后端开发，后期跳槽会被学历卡吗？为啥211本硕会走Qt？这行情真的这么差？](https://www.bilibili.com/video/BV1yhuMziEBa)
+
+#### 82. [双非学历被说啥也不是，双非研0想冲大厂真的没机会吗？报班培训研机会吗？]
+
+#### 83. [双非本985研0，想研二进大厂做Linux实习该学啥？技术栈该往哪些方向精炼？](https://www.bilibili.com/video/BV1rFuHzNE6f)
+
+#### 84. [民办本科软工大二想进大厂，最早何时能开始实习？该考研还是直接就业？]
+
+#### 85. [985机械华五软院研二，大厂C++游戏实习后想转型，还能往哪些方向发展？](https://www.bilibili.com/video/BV12mgPzAEx4)
+
+#### 86. [双非计科大一计划学Java后端进大厂，看到 “Java 已死” 焦虑迷茫，未来该怎么走？](https://www.bilibili.com/video/BV1hBgPzuEru)
+
+#### 87. [复旦计算机保研本校，想回成都发展，是考选调还是进大厂？](https://www.bilibili.com/video/BV1AQgVzHER2)
+
+#### 88. [专升本二本中流985研0，卷算法还是转开发？专升本学历进大厂会被歧视吗？](https://www.bilibili.com/video/BV1ag8wzJExj)
+
+
+#### 89. [985本硕研0编程基础弱想冲大厂开发，以就业为导向如何规划学习路线？](https://www.bilibili.com/video/BV1jw8wzREet)
+
+#### 90. [双非本+中九硕人工智能转开发，想研一暑假进大厂实习求学习建议和方向选择](https://www.bilibili.com/video/BV1xp8ozfEWg)
+
+#### 91. [双非本中科大硕软件工程，父母逼考公，但我想冲大厂产品岗？哪个更适合大龄应届生？](https://www.bilibili.com/video/BV1f58yz1EA7)
+
+#### 92. [美国TOP100计算机本科，回国就业一路全是外包，还能进国内大厂吗？创业、技术、管理该选哪条路？](https://www.bilibili.com/video/BV14bhWzzEVr)
+
+#### 93. [双非本211研二 all in C++ 错了吗？零实习如何斩获大厂Offer？](https://www.bilibili.com/video/BV1zctAz4EQN)
+
+#### 94. [好像什么都会，但是大厂就是面不过，该如何优化？](https://www.bilibili.com/video/BV13sWSe5Eiv)
+
+#### 95. [985本硕控制专业，想自学编程进大厂，目前在了解java和c++,怎么学出路会比较好](https://www.bilibili.com/video/BV1K34HeFEi1)
+
+#### 96. [985本中科院某所研一，本硕材料专业，想自学转码进大厂，该走哪个方向合适呢？](https://www.bilibili.com/video/BV1QE4nevExf)
+
+#### 97. [二本化工生自学Python目标大厂，学习路线与岗位选择怎么规划？](https://www.bilibili.com/video/BV1PtsSeNEQb)
+
+#### 98. [跨专业保研国科大不走算法？研0开始如何规划技术栈冲刺大厂开发岗！](https://www.bilibili.com/video/BV1dxmKYKEe6)
+
+#### 99. [中九本上海TOP2直博想转码进大厂，从就业的角度哪个方向更合适](https://www.bilibili.com/video/BV1cLCmYnERP)
+
+#### 100. [国内读研VS澳洲留学VS华为OD，转码求职大厂开发的最优方向是哪个？](https://www.bilibili.com/video/BV1jNzgYZE68)
+
+#### 101. [双非本985控制硕大厂求职，如何规划技术学习路径，除了Python哪些语言更具认可度？](https://www.bilibili.com/video/BV1pDzrYtETM)
+
+#### 102. [29岁考研转行，做大厂非技术岗可行吗？](https://www.bilibili.com/video/BV1tRzSYoEnG)
+
+#### 103. [大厂管培正编转C/C++开发合适吗？辞职后如何找到合适的方向？](https://www.bilibili.com/video/BV1T2k8YGEpd)
+
+#### 104. [天坑专业如何成功转码上岸大厂？拿下11个offer的25届转码师兄案例分享](https://www.bilibili.com/video/BV1Gq66YGEyU)
+
+#### 105. [985硕非科班26届秋招转码，选择哪个方向更适合秋招冲大厂？](https://www.bilibili.com/video/BV1tor8YrEhy)
+
+#### 106. [27 岁双非非科班硕士，秋招offer传统中厂 C++QT 与大厂游戏测开如何选择？](https://www.bilibili.com/video/BV1iccHe1E3N)
+
+#### 107. [二本非科班大四只会Python，计划年后实习找数据分析秋招冲大厂可行吗？](https://www.bilibili.com/video/BV1zGNoefEzy)
+
+#### 108. [双非本西电通信工程研一无人机地面站方向，想转行C++，哪个岗位最适合进大厂？](https://www.bilibili.com/video/BV177Noe4EJi)
+
+#### 109. [985本科土木海外硕研一，想两年后冲大厂图像视觉算法岗如何规划？](https://www.bilibili.com/video/BV1NgQcY2Eti)
+
+#### 110. [中山大集成电路研二想转 Linux C++ 进大厂，投近百份实习无果，如何优化项目和技能？](https://www.bilibili.com/video/BV1dhQ2YfEyJ)
+
+#### 111. [中九本科+中科院博士，非科班自学AI能进大厂算法岗吗？小厂待遇如何？](https://www.bilibili.com/video/BV1BkQRYWEm1)
+
+#### 112. [杭电数学系研二，自学深度学习强化学习想冲大厂算法岗？该重点学哪些内容？](https://www.bilibili.com/video/BV1JHoRYiEv2)
+
+#### 113. [本硕C9非科班，有树莓派ROS2嵌入式背景，如何冲击大厂软开/系统工程师？](https://www.bilibili.com/video/BV1iwdpYKEzG)
+
+#### 114. [杭电生医工研一想转码，学CPP还是Java进大厂更有优势？](https://www.bilibili.com/video/BV1SGoLYuEKB)
+
+#### 115. [211通信硕士研二转Linux开发，秋招不找实习还有希望进大厂吗？](https://www.bilibili.com/video/BV1JjoEYPEBN)
+
+#### 116. [一战考研冲刺中部985失败，调剂去东北211能进大厂吗？还是二战再搏一次？](https://www.bilibili.com/video/BV1ie5YzuE4x)
+
+#### 117. [985本硕非科班，背八股拿下大厂45w+但担心卷不动，offer该不该接？](https://www.bilibili.com/video/BV1tg5yzsERo)
+
+#### 118. [双中下九通信研一转码，要补408还是直接背八股？CPP、Java、大模型哪个更易进大厂？](https://www.bilibili.com/video/BV1UPLqzuEfQ)
+
+#### 119. [985生物本+复交生信硕，转码需要哪些准备？是冲击计算机博士还是直接备战互联网大厂？](https://www.bilibili.com/video/BV1XtLHzqEDy)
+
+#### 120. [30岁电气转码考研计算机大厂还有机会吗？](https://www.bilibili.com/video/BV1yYGbziEib)
+
+#### 121. [双非二战上岸985研0控制计算机基础很差，如何系统补足计算机基础冲击大厂？](https://www.bilibili.com/video/BV1NZ5GzAE2X)
+
+#### 122. [会计跨考计算机研0，比赛+考证+实习的路线能进大厂吗？](https://www.bilibili.com/video/BV15dEwzbECF)
+
+#### 123. [末九本+海硕，Python基础+零开发经验，一年半时间转码冲击大厂现实吗？](https://www.bilibili.com/video/BV1ejJhzrEKj)
+
+#### 124. [三战上岸本硕985微电子，数字IC+FPGA方向能否进大厂？](https://www.bilibili.com/video/BV1Evj4zwEUE)
+
+#### 125. [本硕985研0零基础转码，选 Java 还是 C++ 冲大厂？目标岗位怎么选才合适？](https://www.bilibili.com/video/BV1KAj8zDEfT)
+
+#### 126. [中9光电硕准备转码进私企，零基础选C++还是Java更易进大厂？](https://www.bilibili.com/video/BV1pEjozsErT)
+
+#### 127. [双非保研中九系统科学小众研究方向，大厂实习该从哪步开始准备？需要几段实习才能敲开大厂大门？](https://www.bilibili.com/video/BV1f675zPEmN)
+
+#### 128. [本硕985机械研一转码C++，专攻代码能进大厂吗？还需提升哪些技能？](https://www.bilibili.com/video/BV1y5TJzFED4)
+
+#### 129. [杭电控制研一，自学Linux C++能冲击哪些大厂岗位？](https://www.bilibili.com/video/BV144MmzUEr1)
+
+#### 130. [哈工深准大四备战考研之余，如何用 1 小时提升大厂所需技能？](https://www.bilibili.com/video/BV1Y53RzQE3y)
+
+#### 131. [2年Java开发上岸211研0，读研后继续走Java路线还是转C++更易进大厂？](https://www.bilibili.com/video/BV1Mk39zyExM)
+
+#### 132. [山东大学空间科学大三，想转码去大厂考研选国防科大还是电子科大？](https://www.bilibili.com/video/BV1SeM9zMEES)
+
+#### 133. [双非通信研二转码，刚入门C++进大厂是不是没希望了？听说Java更容易进大厂？](https://www.bilibili.com/video/BV1W4gWzEEex)
+
+#### 134. [末流985本211硕船舶类土木水利转码，导师让学 CC++ 和 Linux，大厂会介意专业不对口吗？](https://www.bilibili.com/video/BV121bkzXEvG)
+
+#### 135. [广东双非二本25届电子信息，Linux驱动开发想干满一年跳槽，在职冲考研还是跳高薪大厂更好？](https://www.bilibili.com/video/BV1M58Rz4E4B)
+
+#### 136. [双非本上岸南大计科研0自学408和C++，600算法题+内存池项目够不够大厂标准？]
+
+#### 137. [末流双9电子信息研一，代码写得少想进大厂，该怎么靠主观能动性提升能力？](https://www.bilibili.com/video/BV1CQtwzYEdZ)
+
+#### 138. [985工科国企4年考研调剂双非，1年冲刺大厂大模型岗现实吗？](https://www.bilibili.com/video/BV11atqzPEGv)
+
+#### 139. [双非本985硕电子信息，想深入学 C++ 进大厂，该选什么方向？大厂 C++ 岗有哪些？](https://www.bilibili.com/video/BV1kEt4zAETs)
+
+#### 140. [大厂被辞，目前就接到一个外包offer，能去吗？](https://www.bilibili.com/video/BV1Q2afetE5c)
+
+#### 141. [普通一本，大厂面不上，家里催着考公，想留在互联网怎么办？](https://www.bilibili.com/video/BV1k3nZeVEpd)
+
+#### 142. [211本，考研失败后开始工作，感觉发展有限，想辞职二战，后面能去中大厂算法岗吗？](https://www.bilibili.com/video/BV1CAHDe8E1t)
+
+#### 143. [二本机械非科班，6年QT年薪40W，想进大厂应该选择什么技术方向？](https://www.bilibili.com/video/BV1gKrzYqEgg)
+
+#### 144. [大专毕业辗转多份工作，想进中大厂做游戏后端，成人本科学历+裸辞刷题有机会吗？](https://www.bilibili.com/video/BV1hmwAexEyK)
+
+#### 145. [2本9硕国企裸辞自学编程，有机会进大厂吗？](https://www.bilibili.com/video/BV1PLwYefEcg)
+
+#### 146. [985硕军工国企C++开发一年半技术老旧无成长，想转行游戏后台开发或进入互联网大厂如何规划？](https://www.bilibili.com/video/BV19YKWeFEJy)
+
+#### 147. [211本非科班女生转码数仓开发两年，如何覆盖背景劣势冲击大厂或中厂管理层？](https://www.bilibili.com/video/BV1Rz97YmECa)
+
+#### 148. [211保研华五，有大厂后端实习，该坚持开发还是转向大模型风口？](https://www.bilibili.com/video/BV1rPQPY7E5y)
+
+#### 149. [普通海外硕从大厂底软跳槽两个Offer：无人叉车算法 vs 人形机器人嵌入式，如何选择？](https://www.bilibili.com/video/BV1xCjEz9Emf)
+
+#### 150. [双非硕工作几年能跳大厂呢？怎么吸引猎头？](https://www.bilibili.com/video/BV1fr75zaEwq)
+
+#### 151. [27岁211非科班本科转行嵌入式，想进大厂无相关项目该怎么破局？](https://www.bilibili.com/video/BV1jy7qzfEQY)
+
+#### 152. [制造业大厂在就业市场认可度真比不上互联网大厂？](https://www.bilibili.com/video/BV19aM2zxECi)
+
+#### 153. [二本+海外信息硕1年半时间，选择什么技术路线更适合进入大厂？](https://www.bilibili.com/video/BV1rKKNzLEz6)
+
+#### 154. [双一流本科毕业现入职外企运维，如何利用空闲时间学习进中大厂？该选Java还是C++？](https://www.bilibili.com/video/BV1oJM9zmEzp)
+
+#### 155. [有人双非干大厂核心岗，有人 92 做安卓、Qt，差距真的是技术吗？](https://www.bilibili.com/video/BV1iMtqzSEYW)
+
+
+---
+
+### 一线城市
+
+#### 1. [双非本硕211研一，计划新一线城市就业怎么选方向？](https://www.bilibili.com/video/BV1mjSBYJEtH)
+
+#### 2. [211大三想秋招冲击一线杭州嵌入式岗，半年冲刺期如何规划学习路线？](https://www.bilibili.com/video/BV1MyoRYDEQm)
+
+#### 3. [民办二本非一线做单片机程序开发，如何利用下班时间提升技能？一线城市有更好的职业机会？](https://www.bilibili.com/video/BV1E1waeJEkB)
+
+#### 4. [23届双非本硕计科军工行业工作1年半，想跳槽一线城市高薪岗，如何规划职业路径？](https://www.bilibili.com/video/BV1uto2Y8Ecv)
+
+#### 5. [秋招Offer选择：一线大厂测开 vs 二线城市开发，如何规划职业发展？](https://www.bilibili.com/video/BV1uK2mYMEu7)
 
 ---
 
