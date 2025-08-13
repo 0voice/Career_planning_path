@@ -52,6 +52,7 @@
 * [西电](#16)
 * [哈工大](#17)
 * [QS200内](#qs200内)
+* [C9](#c9)
 * [双非](#18)
 * [芯片](#19)
 * [golang](#20)
@@ -1135,6 +1136,48 @@
 ##### 8. [本科一本土木海硕QS150，能走java大数据吗？](https://www.bilibili.com/video/BV1EJeJehEco)
 
 ##### 9. [25届应届QS前100博士，塞力斯汽车核心算法岗与华为数据存储预研岗如何选择？](https://www.bilibili.com/video/BV1piAKeWEog)
+
+---
+
+### C9
+
+##### 1. [C9网安硕士不想做安全？三年C++经验还能转哪些方向？](https://www.bilibili.com/video/BV1AV2oYsE9s)
+
+##### 2. [C9大一计算机科班提问：准备本科就业目标大厂，是选Java还是C/C++？该怎么学才能不走弯路？](https://www.bilibili.com/video/BV19gtfeEEiv)
+
+##### 3. [陕西末9本上海C9硕，想工作多挣钱，该选哪个方向努力？](https://www.bilibili.com/video/BV1CDnZe2ELi)
+
+##### 4. [C9研二计划转高性能网络/储存岗位方向，8个月准备真的够吗？](https://www.bilibili.com/video/BV13gSBYsEig)
+
+##### 5. [双C9科班26届实习Offe：大厂搜广推、AI岗、高薪量化，如何规划职业起点？](https://www.bilibili.com/video/BV19DJBzhEUm)
+
+##### 6. [C9非科班，一年qt客户端开发经验，能转c++的哪些方向？](https://www.bilibili.com/video/BV1XfYjeVExE)
+
+##### 7. [C9本top3研究生：电子信息材料方向想转码，有什么好的方向和建议吗](https://www.bilibili.com/video/BV1cYsfeXEAM)
+
+##### 8. [211本科c9硕士光谱分析：只会点Python和C如何转码？三条转码路线推荐！](https://www.bilibili.com/video/BV1qC1LYfEDm)
+
+##### 9. [本9硕c9研二转行FPGA、数字IC、Java或嵌入式，如何选择最合适的转行方向？](https://www.bilibili.com/video/BV16JSuYREMW)
+
+##### 10. [机械非科班末9本C9硕26届，实习打杂想转岗，Java、CPP、嵌入式该咋选？](https://www.bilibili.com/video/BV1v26UYTEYb)
+
+##### 11. [哈工大C9自动化大四，准备读研转码，如何确定学习重点并明确未来的转码方向？](https://www.bilibili.com/video/BV1uYwLeWEWp)
+
+##### 12. [本硕C9非科班转码，秋招想拿C++岗offer ，怎么准备机会更大？](https://www.bilibili.com/video/BV1nPX9YsE3a)
+
+##### 13. [26届C9电子硕有转码想法，转Java或Go是否可行？秋招来得及吗？](https://www.bilibili.com/video/BV1PfQAYQENq)
+
+##### 14. [C9本华五硕自动化研二转码，仅懂 C++ 基础转 C++ 存储现在来得及吗？](https://www.bilibili.com/video/BV1jhXrYEEun)
+
+##### 15. [本硕C9非科班，有树莓派ROS2嵌入式背景，如何冲击大厂软开/系统工程师？](https://www.bilibili.com/video/BV1iwdpYKEzG)
+
+##### 16. [C9数学本网安硕研0，想走 DPDK 开发是否适合？还有哪些方向推荐？](https://www.bilibili.com/video/BV1vJdhYdEWN)
+
+##### 17. [C9硕非科班转码，游戏开发、具身智能、存储开发哪个赛道更适配长期职业发展？](https://www.bilibili.com/video/BV1hJMmzWE5n)
+
+##### 18. [211 本 C9 硕，军工工作一年半想离职，QT开发还是转行、读博、考编？](https://www.bilibili.com/video/BV1MKQcYJEcC)
+
+##### 19. [C9本+美硕数学专业，AI小厂转OD大模型加速，28岁还拿应届生工资职业发展滞后如何破局？](https://www.bilibili.com/video/BV1Nvo2YREaZ)
 
 ---
 
