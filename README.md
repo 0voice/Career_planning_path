@@ -754,43 +754,129 @@
 
 ---
 
-<h3 id="10">杭电</h3> 
+<h3 id="10">秋招</h3> 
 
-##### [10.1.1 杭电958研一迷茫：FPGA高薪路？还是自学Java转后端？](https://www.bilibili.com/video/BV1zUtQeuEAa)
+##### [10.1.1 实习期间该不该继续投秋招？实习与秋招正式offer的区别解析](https://www.bilibili.com/video/BV1GYDVYxETp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.2 双非本杭电硕研二准备3个月边实习边零基础学C++，秋招冲刺C++岗位这条路可行吗](https://www.bilibili.com/video/BV1VbCoYYEBe)
+##### [10.1.2 秋招获30万offer本满意，发现平时不如自己的同学拿50万，该如何自我调节？](https://www.bilibili.com/video/BV1rTwPerEW1/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.3 杭电本北理硕毕业走开发的话，技术方向该怎么选？](https://www.bilibili.com/video/BV1yqYTeqEVB)
+##### [10.1.3 本硕211电子信息秋招三份offer质量太差，如何重整旗鼓为春招做好准备？](https://www.bilibili.com/video/BV1TprCYGEuH/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.4 杭电硕计科研一，想卷java进大厂!这个目标真的靠谱吗？](https://www.bilibili.com/video/BV1yRS3YzEfu)
+##### [10.1.4 211硕CPP后端方向秋招0 offer，是方向错还是实力不行？转行避免浪费时间？](https://www.bilibili.com/video/BV1sA6VYSEPZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.5 杭电自动化大二路线规划：做项目、打竞赛与考研，哪个更助于进入大厂？](https://www.bilibili.com/video/BV1Zq9JYoEp6)
+##### [10.1.5 中上211电子信息研二，项目杂乱无实习，明年秋招如何找到突破口？](https://www.bilibili.com/video/BV1n36VY5Ec7/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.6 杭电硕士研一前端转C++音视频，研三实习前如何提升竞争力？](https://www.bilibili.com/video/BV1GT9JYEEr6)
+##### [10.1.6 985本科班考研大概率失利，没基础如何备战春招？还能进中厂吗？](https://www.bilibili.com/video/BV1ftCbYbE5W/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.7 双非本杭电研一，零基础转C++底层开发，想进大厂哪个方向更容易进？做什么项目？](https://www.bilibili.com/video/BV1xDLUzqEoB)
+##### [10.1.7 三本秋招成功拿下互联网中厂offer，SDN数据面技术的未来潜力如何？](https://www.bilibili.com/video/BV1XjkhYDEGg/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.8 考研调剂到杭电，想进大厂，要不要二战重考？](https://www.bilibili.com/video/BV1dH5LzWEJ9)
+##### [10.1.8 秋招颗粒无收，十一、十二月是等补录还是再实习备战春招？](https://www.bilibili.com/video/BV1sWDYYPEHy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.1.9 杭电研二 CAD 内核开发，几何算法经验+测试经验适合哪些就业方向？](https://www.bilibili.com/video/BV1zfMyzFEcv)
+##### [10.1.9 双非硕非科班，秋招全是已读不回，现在做些项目提升简历竞争力春招还有机会吗？](https://www.bilibili.com/video/BV1n7B5YGEsq/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.0 大专3+2，未来计划升杭电，能走Qt吗，还是说要去走java](https://www.bilibili.com/video/BV1P6HNeqEf8)
+##### [10.2.0 人工智能专业研三方向迷茫，无实习无论文秋招是否注定失败？](https://www.bilibili.com/video/BV14BCRYmEnW/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.1 杭电研一：时间不够是该全心投入导师给的项目，还是留时间自学开发？如何规划未来求职方向？](https://www.bilibili.com/video/BV1nYmUYaE46)
+##### [10.2.1 秋招惨败！所有公司都是只有一面，真的是实力问题吗？如何找出问题？](https://www.bilibili.com/video/BV1xn1FYbEw4/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.2 杭电大二新闻传播到华为光产品线，偏向光猫领域，未来能否顺利跳槽嵌入式开发岗？](https://www.bilibili.com/video/BV1GLCqY6Egk)
+##### [10.2.2 秋招offer选择：BAT vs. 独角兽，两份优质offer薪资相近却有天壤之别？](https://www.bilibili.com/video/BV1BuyoYuE5W/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.3 杭电数学系研二，自学深度学习强化学习想冲大厂算法岗？该重点学哪些内容？](https://www.bilibili.com/video/BV1JHoRYiEv2)
+##### [10.2.3 211电子信息大四学生未赶上秋招，现在该如何准备春招？](https://www.bilibili.com/video/BV1m4qaYNEmW?spm_id_from=333.788.player.switch&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.4 杭电自动化大三学嵌入式 Linux ，接下来是学驱动还是走应用更好？](https://www.bilibili.com/video/BV1hodVYqERg)
+##### [10.2.4 秋招Offer：腾讯iOS开发与海信嵌入式总包少20万如何选择？要不要再搏春招？](https://www.bilibili.com/video/BV1SgmWYgEXB/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.5 杭电生医工研一想转码，学CPP还是Java进大厂更有优势？](https://www.bilibili.com/video/BV1SGoLYuEKB)
+##### [10.2.5 211师范大学非师范计算机女生：有基础但思路混乱，如何高效备战秋招实战？](https://www.bilibili.com/video/BV1MHmDYmEJc/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.6 杭电本 + 海外硕士，回国就业算法转开发选什么语言有前景？](https://www.bilibili.com/video/BV1mxGbz3Eta)
+##### [14.2.6 土木工作2年，考研到211计科，目前研二，该如何准备秋招？](https://www.bilibili.com/video/BV1R4B2YsEcd/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.7 杭电控制研一，自学Linux C++能冲击哪些大厂岗位？](https://www.bilibili.com/video/BV144MmzUEr1)
+##### [14.2.7 双非+QS100硕士：回国求职选春招还是秋招？技术与履历掉队如何应对？](https://www.bilibili.com/video/BV1QSBRYkEKp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [10.2.8 杭电本科2年C++后端，裸辞后才发现C++赛道太窄？如何破局跳槽or转行？](https://www.bilibili.com/video/BV1qcMpz8Eq4)
+##### [14.2.8 数学本硕如何成功转码？秋招前的学习路线与岗位选择，是否从408开始学习？](https://www.bilibili.com/video/BV1xjzSYXEyR/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.2.9 秋招拿到多个offer：跨境电商APP与机器人上位机开发，如何选择？](https://www.bilibili.com/video/BV1QtqLY8Et8/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.3.0 北京985本，感觉秋招没啥机会，能推荐一个方向学习吗？](https://www.bilibili.com/video/BV1224Je4ERZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.3.1 25届校招生，已有两段大厂实习。目前有一家linux内核实习很喜欢，是继续实习还是去秋招？](https://www.bilibili.com/video/BV1no4heJErv/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.3.2 普通本科院校的计算机科班的同学该如何在秋招中去和背书比自己更强的同学去竞争？](https://www.bilibili.com/video/BV1J7i3emEvf/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.3.3 双非电子硕士，还有两个月秋招，除了刷题，还该如何准备？](https://www.bilibili.com/video/BV1mRi7e1EPJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.3.4 暑期实习只有一个20多人的小厂外包offer，要不要去？还是说全力去准备秋招](https://www.bilibili.com/video/BV1CGvDe8EaP/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.3.5 二本非科班大四只会Python，计划年后实习找数据分析秋招冲大厂可行吗？](https://www.bilibili.com/video/BV1zGNoefEzy/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.3.6 二本物联网工程大三零基础，6个月备战秋招，测试、运维、开发选哪个更适合？](https://www.bilibili.com/video/BV1BdNVe6Emn/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.3.7 末流985本科科班考研失利错过秋招，用C++写过游戏脚本，春招有机会进大厂吗？](https://www.bilibili.com/video/BV1kPwPeCEvV/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.3.8 本科一本大三在中厂实习C++，下学期是继续实习为秋招蓄力，还是备考考研？](https://www.bilibili.com/video/BV1gGwjeoEmN/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.3.9 27 岁双非非科班硕士，秋招offer传统中厂 C++QT 与大厂游戏测开如何选择？](https://www.bilibili.com/video/BV1iccHe1E3N/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.0 本硕211研二非科班，金山训练营转正几率高但社招不好找工作，是否该全力投入Java准备秋招？](https://www.bilibili.com/video/BV1aJrLY6EX6/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.4.1 985硕非科班26届秋招转码，选择哪个方向更适合秋招冲大厂？](https://www.bilibili.com/video/BV1tor8YrEhy/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.2 双九计算机研三，秋招 Java 方向大厂全挂，准备半年仍无果，春招还坚持 Java 吗？](https://www.bilibili.com/video/BV1X36UYcEMF/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.3 211本海硕秋招offer选择：vivo和华为哪家嵌入式软开更适合长期发展？工作更稳定？](https://www.bilibili.com/video/BV1aU6GYFEMj/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.4 211科班研二走LinuxC/C++开发，目标秋招中大厂岗位，求高效学习路线推荐！](https://www.bilibili.com/video/BV1JGCaYTEiQ/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.5 双非硕士秋招至今0 offer，嵌入式岗位全挂，转投游戏开发，春招是否来得及？](https://www.bilibili.com/video/BV1qwCGYGEhe/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.6 双非硕非科班，秋招全是已读不回，现在做些项目提升简历竞争力春招还有机会吗？](https://www.bilibili.com/video/BV1n7B5YGEsq/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.7 双非本211硕电子信息，课题医学影像方向如何找到主攻点为秋招做准备？](https://www.bilibili.com/video/BV1jaBTYUE26/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.8 211硕非科班秋招签约小米，如何规划接下来的职业发展？跳槽、转岗或副业？](https://www.bilibili.com/video/BV1BEq6YCE6M/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.4.9 秋招拿到多个offer：跨境电商APP与机器人上位机开发，如何选择？](https://www.bilibili.com/video/BV1QtqLY8Et8/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.0 想走推荐搜索算法却担心秋招颗粒无收，是否应该转向Java开发提升就业机会？](https://www.bilibili.com/video/BV1wgiRYpEdj/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.1 投递300+，三次一面全挂！非科班211硕如何突破秋招困境？](https://www.bilibili.com/video/BV1Kkz8YNEyj/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.2 双非科班目标中小厂开发岗，如何规划春招和秋招？力扣算法需准备吗？](https://www.bilibili.com/video/BV1CUz8YFEng/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.3 211交通类硕士研二自学Java，秋招前能否找到实习机会？](https://www.bilibili.com/video/BV1W8BmYGE6K/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.4 两款项目：分布式IM+仿腾讯会议项目，秋招能否拿到音视频大厂Offer？](https://www.bilibili.com/video/BV13aBvYWEka/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.5 211师范大学非师范计算机女生：有基础但思路混乱，如何高效备战秋招实战？](https://www.bilibili.com/video/BV1MHmDYmEJc/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.6 211硕士C++后端选手秋招不顺，小厂Qt实习是转机还是浪费时间？](https://www.bilibili.com/video/BV1SwDSYpENM/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.7 25毕业应届双非硕C++ Java双修秋招求职屡屡碰壁！我该All in 哪边？](https://www.bilibili.com/video/BV1JR1WYWESV/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.5.8 转行失败？秋招面试寥寥无几，211电子信息专业研三转C++如何提升项目含金量与面试成功率？](https://www.bilibili.com/video/BV1zp1NYaEw4/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.5.9 双非本211控制硕士：明年秋招，老师让我多投几篇论文是在浪费时间吗？](https://www.bilibili.com/video/BV1xk1cYAEbx/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.6.0 双非本杭电硕研二准备3个月边实习边零基础学C++，秋招冲刺C++岗位这条路可行吗](https://www.bilibili.com/video/BV1VbCoYYEBe/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.6.1 211本科985硕士研二：明年秋招，追求稳定高壁垒工作，选择驱动开发还是应用开发还是Java应用开发？](https://www.bilibili.com/video/BV1FvyTYuE4j/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.6.2 秋招缩招转战软件开发方向，互联网与制造业如何选择？半年内如何有效深入学习？](https://www.bilibili.com/video/BV1Ai2ZYtEqw/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.6.3 秋招Offer选择：一线大厂测开 vs 二线城市开发，如何规划职业发展？](https://www.bilibili.com/video/BV1uK2mYMEu7/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.6.4 双非计算机：秋招C++求职无果！问题出在哪？如何提升求职成功率？](https://www.bilibili.com/video/BV1Ks2HYFEd1/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.6.5 末流211大四：秋招找工作C++需要学到什么程度？必备技术栈与项目推荐。](https://www.bilibili.com/video/BV1TFxFeAECx/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.6.6 双非研二，一直在学音视频，有项目有实习，想26年秋招进大厂，有机会吗？](https://www.bilibili.com/video/BV1UE4ze7EaX/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.6.7 25届校招生，已有两段大厂实习。目前有一家linux内核实习很喜欢，是继续实习还是去秋招？](https://www.bilibili.com/video/BV1no4heJErv/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [14.6.8 双非本华五硕，有过三段算法实习，秋招能all in AIGC吗？](https://www.bilibili.com/video/BV1SapoeoEWk/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.6.9 211本硕准备c++后端秋招，但是又对内核感兴趣，能all in内核岗位？](https://www.bilibili.com/video/BV1RmYxe6Exu/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.7.0 双非电子硕士，还有两个月秋招，除了刷题，还该如何准备？](https://www.bilibili.com/video/BV1mRi7e1EPJ/?spm_id_from=333.1387.search.video_card.click)
+
+##### [14.7.1 地方银行的的实习对秋招投互联网大厂有用吗？](https://www.bilibili.com/video/BV1b2421Z7dA/?spm_id_from=333.1387.search.video_card.click)
 
 
 ---
@@ -929,131 +1015,43 @@
 ##### [13.2.5 对应届生而言，华为OD算不算一个好的去处？](https://www.bilibili.com/video/BV1SZ421T73J/?spm_id_from=333.1387.search.video_card.click)
 
 ---
+<h3 id="14">杭电</h3> 
 
-<h3 id="14">秋招</h3> 
+##### [10.1.1 杭电958研一迷茫：FPGA高薪路？还是自学Java转后端？](https://www.bilibili.com/video/BV1zUtQeuEAa)
 
+##### [10.1.2 双非本杭电硕研二准备3个月边实习边零基础学C++，秋招冲刺C++岗位这条路可行吗](https://www.bilibili.com/video/BV1VbCoYYEBe)
 
-##### [14.1.1 实习期间该不该继续投秋招？实习与秋招正式offer的区别解析](https://www.bilibili.com/video/BV1GYDVYxETp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.3 杭电本北理硕毕业走开发的话，技术方向该怎么选？](https://www.bilibili.com/video/BV1yqYTeqEVB)
 
-##### [14.1.2 秋招获30万offer本满意，发现平时不如自己的同学拿50万，该如何自我调节？](https://www.bilibili.com/video/BV1rTwPerEW1/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.4 杭电硕计科研一，想卷java进大厂!这个目标真的靠谱吗？](https://www.bilibili.com/video/BV1yRS3YzEfu)
 
-##### [14.1.3 本硕211电子信息秋招三份offer质量太差，如何重整旗鼓为春招做好准备？](https://www.bilibili.com/video/BV1TprCYGEuH/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.5 杭电自动化大二路线规划：做项目、打竞赛与考研，哪个更助于进入大厂？](https://www.bilibili.com/video/BV1Zq9JYoEp6)
 
-##### [14.1.4 211硕CPP后端方向秋招0 offer，是方向错还是实力不行？转行避免浪费时间？](https://www.bilibili.com/video/BV1sA6VYSEPZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.6 杭电硕士研一前端转C++音视频，研三实习前如何提升竞争力？](https://www.bilibili.com/video/BV1GT9JYEEr6)
 
-##### [14.1.5 中上211电子信息研二，项目杂乱无实习，明年秋招如何找到突破口？](https://www.bilibili.com/video/BV1n36VY5Ec7/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.7 双非本杭电研一，零基础转C++底层开发，想进大厂哪个方向更容易进？做什么项目？](https://www.bilibili.com/video/BV1xDLUzqEoB)
 
-##### [14.1.6 985本科班考研大概率失利，没基础如何备战春招？还能进中厂吗？](https://www.bilibili.com/video/BV1ftCbYbE5W/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.8 考研调剂到杭电，想进大厂，要不要二战重考？](https://www.bilibili.com/video/BV1dH5LzWEJ9)
 
-##### [14.1.7 三本秋招成功拿下互联网中厂offer，SDN数据面技术的未来潜力如何？](https://www.bilibili.com/video/BV1XjkhYDEGg/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.1.9 杭电研二 CAD 内核开发，几何算法经验+测试经验适合哪些就业方向？](https://www.bilibili.com/video/BV1zfMyzFEcv)
 
-##### [14.1.8 秋招颗粒无收，十一、十二月是等补录还是再实习备战春招？](https://www.bilibili.com/video/BV1sWDYYPEHy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.0 大专3+2，未来计划升杭电，能走Qt吗，还是说要去走java](https://www.bilibili.com/video/BV1P6HNeqEf8)
 
-##### [14.1.9 双非硕非科班，秋招全是已读不回，现在做些项目提升简历竞争力春招还有机会吗？](https://www.bilibili.com/video/BV1n7B5YGEsq/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.1 杭电研一：时间不够是该全心投入导师给的项目，还是留时间自学开发？如何规划未来求职方向？](https://www.bilibili.com/video/BV1nYmUYaE46)
 
-##### [14.2.0 人工智能专业研三方向迷茫，无实习无论文秋招是否注定失败？](https://www.bilibili.com/video/BV14BCRYmEnW/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.2 杭电大二新闻传播到华为光产品线，偏向光猫领域，未来能否顺利跳槽嵌入式开发岗？](https://www.bilibili.com/video/BV1GLCqY6Egk)
 
-##### [14.2.1 秋招惨败！所有公司都是只有一面，真的是实力问题吗？如何找出问题？](https://www.bilibili.com/video/BV1xn1FYbEw4/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.3 杭电数学系研二，自学深度学习强化学习想冲大厂算法岗？该重点学哪些内容？](https://www.bilibili.com/video/BV1JHoRYiEv2)
 
-##### [14.2.2 秋招offer选择：BAT vs. 独角兽，两份优质offer薪资相近却有天壤之别？](https://www.bilibili.com/video/BV1BuyoYuE5W/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.4 杭电自动化大三学嵌入式 Linux ，接下来是学驱动还是走应用更好？](https://www.bilibili.com/video/BV1hodVYqERg)
 
-##### [14.2.3 211电子信息大四学生未赶上秋招，现在该如何准备春招？](https://www.bilibili.com/video/BV1m4qaYNEmW?spm_id_from=333.788.player.switch&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.5 杭电生医工研一想转码，学CPP还是Java进大厂更有优势？](https://www.bilibili.com/video/BV1SGoLYuEKB)
 
-##### [14.2.4 秋招Offer：腾讯iOS开发与海信嵌入式总包少20万如何选择？要不要再搏春招？](https://www.bilibili.com/video/BV1SgmWYgEXB/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.6 杭电本 + 海外硕士，回国就业算法转开发选什么语言有前景？](https://www.bilibili.com/video/BV1mxGbz3Eta)
 
-##### [14.2.5 211师范大学非师范计算机女生：有基础但思路混乱，如何高效备战秋招实战？](https://www.bilibili.com/video/BV1MHmDYmEJc/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [10.2.7 杭电控制研一，自学Linux C++能冲击哪些大厂岗位？](https://www.bilibili.com/video/BV144MmzUEr1)
 
-##### [14.2.6 土木工作2年，考研到211计科，目前研二，该如何准备秋招？](https://www.bilibili.com/video/BV1R4B2YsEcd/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.2.7 双非+QS100硕士：回国求职选春招还是秋招？技术与履历掉队如何应对？](https://www.bilibili.com/video/BV1QSBRYkEKp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.2.8 数学本硕如何成功转码？秋招前的学习路线与岗位选择，是否从408开始学习？](https://www.bilibili.com/video/BV1xjzSYXEyR/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.2.9 秋招拿到多个offer：跨境电商APP与机器人上位机开发，如何选择？](https://www.bilibili.com/video/BV1QtqLY8Et8/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.3.0 北京985本，感觉秋招没啥机会，能推荐一个方向学习吗？](https://www.bilibili.com/video/BV1224Je4ERZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.3.1 25届校招生，已有两段大厂实习。目前有一家linux内核实习很喜欢，是继续实习还是去秋招？](https://www.bilibili.com/video/BV1no4heJErv/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.3.2 普通本科院校的计算机科班的同学该如何在秋招中去和背书比自己更强的同学去竞争？](https://www.bilibili.com/video/BV1J7i3emEvf/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.3.3 双非电子硕士，还有两个月秋招，除了刷题，还该如何准备？](https://www.bilibili.com/video/BV1mRi7e1EPJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.3.4 暑期实习只有一个20多人的小厂外包offer，要不要去？还是说全力去准备秋招](https://www.bilibili.com/video/BV1CGvDe8EaP/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.3.5 二本非科班大四只会Python，计划年后实习找数据分析秋招冲大厂可行吗？](https://www.bilibili.com/video/BV1zGNoefEzy/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.3.6 二本物联网工程大三零基础，6个月备战秋招，测试、运维、开发选哪个更适合？](https://www.bilibili.com/video/BV1BdNVe6Emn/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.3.7 末流985本科科班考研失利错过秋招，用C++写过游戏脚本，春招有机会进大厂吗？](https://www.bilibili.com/video/BV1kPwPeCEvV/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.3.8 本科一本大三在中厂实习C++，下学期是继续实习为秋招蓄力，还是备考考研？](https://www.bilibili.com/video/BV1gGwjeoEmN/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.3.9 27 岁双非非科班硕士，秋招offer传统中厂 C++QT 与大厂游戏测开如何选择？](https://www.bilibili.com/video/BV1iccHe1E3N/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.0 本硕211研二非科班，金山训练营转正几率高但社招不好找工作，是否该全力投入Java准备秋招？](https://www.bilibili.com/video/BV1aJrLY6EX6/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.4.1 985硕非科班26届秋招转码，选择哪个方向更适合秋招冲大厂？](https://www.bilibili.com/video/BV1tor8YrEhy/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.2 双九计算机研三，秋招 Java 方向大厂全挂，准备半年仍无果，春招还坚持 Java 吗？](https://www.bilibili.com/video/BV1X36UYcEMF/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.3 211本海硕秋招offer选择：vivo和华为哪家嵌入式软开更适合长期发展？工作更稳定？](https://www.bilibili.com/video/BV1aU6GYFEMj/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.4 211科班研二走LinuxC/C++开发，目标秋招中大厂岗位，求高效学习路线推荐！](https://www.bilibili.com/video/BV1JGCaYTEiQ/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.5 双非硕士秋招至今0 offer，嵌入式岗位全挂，转投游戏开发，春招是否来得及？](https://www.bilibili.com/video/BV1qwCGYGEhe/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.6 双非硕非科班，秋招全是已读不回，现在做些项目提升简历竞争力春招还有机会吗？](https://www.bilibili.com/video/BV1n7B5YGEsq/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.7 双非本211硕电子信息，课题医学影像方向如何找到主攻点为秋招做准备？](https://www.bilibili.com/video/BV1jaBTYUE26/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.8 211硕非科班秋招签约小米，如何规划接下来的职业发展？跳槽、转岗或副业？](https://www.bilibili.com/video/BV1BEq6YCE6M/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.4.9 秋招拿到多个offer：跨境电商APP与机器人上位机开发，如何选择？](https://www.bilibili.com/video/BV1QtqLY8Et8/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.0 想走推荐搜索算法却担心秋招颗粒无收，是否应该转向Java开发提升就业机会？](https://www.bilibili.com/video/BV1wgiRYpEdj/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.1 投递300+，三次一面全挂！非科班211硕如何突破秋招困境？](https://www.bilibili.com/video/BV1Kkz8YNEyj/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.2 双非科班目标中小厂开发岗，如何规划春招和秋招？力扣算法需准备吗？](https://www.bilibili.com/video/BV1CUz8YFEng/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.3 211交通类硕士研二自学Java，秋招前能否找到实习机会？](https://www.bilibili.com/video/BV1W8BmYGE6K/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.4 两款项目：分布式IM+仿腾讯会议项目，秋招能否拿到音视频大厂Offer？](https://www.bilibili.com/video/BV13aBvYWEka/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.5 211师范大学非师范计算机女生：有基础但思路混乱，如何高效备战秋招实战？](https://www.bilibili.com/video/BV1MHmDYmEJc/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.6 211硕士C++后端选手秋招不顺，小厂Qt实习是转机还是浪费时间？](https://www.bilibili.com/video/BV1SwDSYpENM/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.7 25毕业应届双非硕C++ Java双修秋招求职屡屡碰壁！我该All in 哪边？](https://www.bilibili.com/video/BV1JR1WYWESV/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.5.8 转行失败？秋招面试寥寥无几，211电子信息专业研三转C++如何提升项目含金量与面试成功率？](https://www.bilibili.com/video/BV1zp1NYaEw4/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.5.9 双非本211控制硕士：明年秋招，老师让我多投几篇论文是在浪费时间吗？](https://www.bilibili.com/video/BV1xk1cYAEbx/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.6.0 双非本杭电硕研二准备3个月边实习边零基础学C++，秋招冲刺C++岗位这条路可行吗](https://www.bilibili.com/video/BV1VbCoYYEBe/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.6.1 211本科985硕士研二：明年秋招，追求稳定高壁垒工作，选择驱动开发还是应用开发还是Java应用开发？](https://www.bilibili.com/video/BV1FvyTYuE4j/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.6.2 秋招缩招转战软件开发方向，互联网与制造业如何选择？半年内如何有效深入学习？](https://www.bilibili.com/video/BV1Ai2ZYtEqw/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.6.3 秋招Offer选择：一线大厂测开 vs 二线城市开发，如何规划职业发展？](https://www.bilibili.com/video/BV1uK2mYMEu7/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.6.4 双非计算机：秋招C++求职无果！问题出在哪？如何提升求职成功率？](https://www.bilibili.com/video/BV1Ks2HYFEd1/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.6.5 末流211大四：秋招找工作C++需要学到什么程度？必备技术栈与项目推荐。](https://www.bilibili.com/video/BV1TFxFeAECx/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.6.6 双非研二，一直在学音视频，有项目有实习，想26年秋招进大厂，有机会吗？](https://www.bilibili.com/video/BV1UE4ze7EaX/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.6.7 25届校招生，已有两段大厂实习。目前有一家linux内核实习很喜欢，是继续实习还是去秋招？](https://www.bilibili.com/video/BV1no4heJErv/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-##### [14.6.8 双非本华五硕，有过三段算法实习，秋招能all in AIGC吗？](https://www.bilibili.com/video/BV1SapoeoEWk/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.6.9 211本硕准备c++后端秋招，但是又对内核感兴趣，能all in内核岗位？](https://www.bilibili.com/video/BV1RmYxe6Exu/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.7.0 双非电子硕士，还有两个月秋招，除了刷题，还该如何准备？](https://www.bilibili.com/video/BV1mRi7e1EPJ/?spm_id_from=333.1387.search.video_card.click)
-
-##### [14.7.1 地方银行的的实习对秋招投互联网大厂有用吗？](https://www.bilibili.com/video/BV1b2421Z7dA/?spm_id_from=333.1387.search.video_card.click)
+##### [10.2.8 杭电本科2年C++后端，裸辞后才发现C++赛道太窄？如何破局跳槽or转行？](https://www.bilibili.com/video/BV1qcMpz8Eq4)
 
 ---
 
